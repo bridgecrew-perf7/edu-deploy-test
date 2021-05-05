@@ -1,0 +1,80 @@
+.filter {
+  position: absolute;
+  z-index: 20;
+  top: 335px;
+  width: 100%;
+}
+.box-search {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+}
+.container-fixed {
+  width: 60%;
+  padding: 0 15px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.filter .wrapper-filter {
+  /* background-color: #0082c8; */
+  background-color: rgba(0, 0, 0, 0.65);
+  box-shadow: 0 4px 20px 0 rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  padding: 20px 50px;
+  height: 190px;
+}
+
+h1.headline {
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 26px;
+  text-align: left;
+  font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* #demo-simple-select-outlined{
+  height: ;
+} */
+
+label + .MuiInput-formControl {
+  padding-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .filter {
+    bottom: auto;
+    top: 70px;
+  }
+  .container-fixed {
+    width: 100%;
+  }
+  h1.headline {
+    font-size: 21px;
+  }
+  .filter .wrapper-filter {
+    height: 250px;
+  }
+  .box-search {
+    background-color: transparent;
+    margin-top: -30px;
+  }
+  .MuiInputBase-root {
+    background-color: white;
+  }
+  .makeStyles-formControl-1 {
+    width: 90%;
+    margin-top: 0 !important;
+  }
+  .MuiButtonBase-root {
+    width: 90%;
+    margin-top: 0 !important;
+  }
+  .MuiFormControl-root .makeStyles-margin-56 {
+    margin-bottom: 0px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+}

@@ -1,0 +1,62 @@
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 30px;
+  line-height: 1;
+  opacity: 0.75;
+  color: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev {
+  left: -40px;
+}
+.border_left {
+  display: inline;
+  position: relative;
+}
+
+.border_left:before {
+  content: "";
+  display: inline-block;
+  border-bottom: 2px solid gray;
+  width: 150px;
+  position: relative;
+  top: -11px;
+}
+.border_left:after {
+  content: "";
+  display: inline-block;
+  border-bottom: 2px solid black;
+  width: 50px;
+  position: absolute;
+  top: 8px;
+  right: 0;
+}
+.border_right {
+  display: inline;
+  position: relative;
+}
+.border_right:before {
+  content: "";
+  display: inline-block;
+  border-bottom: 2px solid gray;
+  width: 150px;
+  position: relative;
+  top: -3px;
+}
+.border_right:after {
+  content: "";
+  display: inline-block;
+  border-bottom: 2px solid black;
+  width: 50px;
+  position: absolute;
+  bottom: 13px;
+  left: 0;
+}
+
+.MuiCard-root:hover {
+  cursor: pointer;
+  border-bottom: 4px solid #1b44a2;
+  transition: 0.2s all;
+}

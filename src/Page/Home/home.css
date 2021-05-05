@@ -1,0 +1,27 @@
+#content {
+  margin-top: 140px;
+  text-align: center;
+  width: 100%;
+}
+
+.fix-content {
+  width: 70px;
+  position: fixed;
+  right: 0;
+  z-index: 1000;
+  bottom: 100px;
+}
+.fix-content img {
+  width: 100%;
+  border-radius: 6px;
+}
+@media only screen and (max-width: 768px) {
+  #content {
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+  }
+  #content h1 {
+    font-size: 35px;
+  }
+}

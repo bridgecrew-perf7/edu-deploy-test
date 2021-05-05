@@ -1,0 +1,12 @@
+.MuiOutlinedInput-root {
+  border-radius: 0px !important;
+  border-top-left-radius: 4px !important;
+  border-bottom-left-radius: 4px !important;
+}
+
+.banner {
+  width: 100%;
+  height: 500px;
+  background-image: url("https://res.cloudinary.com/toantqt/image/upload/v1620184244/icon-edu-d24/bg_trbaku.png");
+  background-size: cover;
+}

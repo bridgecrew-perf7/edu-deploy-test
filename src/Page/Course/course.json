@@ -1,0 +1,564 @@
+{
+    "course": [
+        {
+            "name": "Thiết kế đồ họa quảng cáo",
+            "banner":"",
+            "content": "Thiết kế đồ họa quảng cáo là khóa học thiết kế cho chiến dịch marketing truyền thông của các cá nhân tổ chức doanh nghiệp,Giúp học viên hiểu và nắm bắt các kĩ năng thiết kế tiếp nhận các ý tưởng từ bộ phận Marketing từ đó tư duy nhằm tiếp cận và giải quyết các vấn đề dựa trên các góc nhìn nghệ thuật cảm quan truyền tải các nội dung thông điệp sản phẩm  tạo lên bộ thiết kế truyền thông hoàn chỉnh, bao gồm video hình ảnh thu hút người xem tạo ấn tượng tới chiến dịch truyền thông. Học viên sẽ được học đầy đủ các kĩ năng như chỉnh sửa ảnh, thiết kế ấn phẩm truyền thông doanh nghiệp, chụp ảnh sản phẩm, chỉnh sửa edit video, tư duy bài bản trong nghệ thuật thiết kế.",
+            "program":{
+                "target" : {
+                    "skill": ["Thiết kế đồ họa các sản phẩm cho quảng cáo thông qua sử dụng các công cụ như Adobe Illustrator, Adobe Photoshop, Adobe Indesign","Lập kế hoạch thiết kế đồ họa các sản phẩm cho quảng cáo theo yêu cầu cho doanh nghiệp, khách hàng","Tư vấn thiết kế đồ họa cho sản phẩm cho thương hiệu của doanh nghiệp"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế đồ họa cho quảng cáo cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Học viên đam mê thiết kế","Người đang làm trong lĩnh vực thiết kế quảng cáo"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế đồ họa cho quảng cáo do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"1. Kiến thức căn bản",
+                    "product":["Chọn font chữ và bố cục thiết kế","Màu sắc cho logo và sản phẩm thiết kế"]
+                },{
+                    "title":"2. Adobe Photoshop – Đồ họa Bitmap (Ps)",
+                    "product":["Phương pháp sửa ảnh","Ghép ảnh","Tô màu tranh ảnh","Thiết kế quảng cáo, thiết kế web"]
+                },
+                {
+                    "title":"3. Adobe Indesign – Id",
+                    "product":["Sách (book), tạp chí (magazine)","Biểu mẫu","Brochure, Catalog","Newsletter","Presentation"]
+                    
+                },
+                {
+                    "title":"4. Adobe illustrator - Ai",
+                    "product":["Minh họa sách báo","Thiết kế Logo","Tạo các sản phẩm tờ rơi, brochure, profile","Vẽ hoạt hình","Tích hợp chuyển động cho Flash"]
+                    
+                }]
+            }
+        },
+        {
+            "name": "Thiết kế video marketing",
+            "banner":"",
+            "content": "Khóa học VIDEO MARKETING dành cho Marketer. Học viên thực hành lên kịch bản video quảng cáo, quy trình xây dựng video, marketing video… Tạo video cho chính mô hình kinh doanh của mình hoặc sáng tạo ra những clips nhằm kiếm thu nhập trên Youtube. Chương trình giảng dạy bởi chuyên gia giàu kinh nghiệp với case study thực tế kết hợp “thủ thuật” tăng traffic khi đưa clips lên mạng.",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng xây dựng tất cả các thể loại Video marketing.","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng sản phẩm của bạn.","Chỉnh sửa video: cắt / ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video bán hàng, giới thiệu sản phẩm, trải nghiệm người dùng, và video sự kiện."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế đồ họa cho quảng cáo cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Học viên đam mê thiết kế","Người đang làm trong lĩnh vực thiết kế quảng cáo","Dân Marketing muốn trở thành chuyên gia về VIDEO Marketing, LÀM CHỦ các công cụ sản xuất video chuyên nghiệp."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế video marketing do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"1. Video marketing và hình vi mua hàng",
+                    "product":["Tầm quan trọng của Video marketing","Các yếu tố cần thiết đế có video hay","Tìm hiểu hành vi mua hàng của khách hàng mục tiêu"]
+                },{
+                    "title":"2. Viết kịch bản phân cảnh",
+                    "product":["Các thể loại Video Marketing","Kịch bản video marketing/ Video Sales"]
+                },
+                {
+                    "title":"3. Ngôn ngữ hình ảnh & phương pháp quay phim",
+                    "product":["Bố cục hình ảnh: Nguyên tắc bố trí hình ảnh, sự cân bằng, tương phản, màu sắc, ánh sáng và chiều sâu không gian ảnh.","Phát triển ý tưởng sáng tạo hình ảnh, khuôn hình và cỡ cảnh","Vị trí góc máy và sự ảnh hưởng chủ đề nhân vật.","Kỹ thuật chuyển động Camera: Zoom, Following pan, Surveying pan, Crab, Tracking (dollying)","Sự liên tục hành động của nhân vật trong phim.","Cách phối hợp giữa khuôn hình và cỡ cảnh.","Phương pháp & nguyên tắc ghi hình."]
+                    
+                },
+                {
+                    "title":"4. Công cụ sản xuất Video Marketing",
+                    "product":["Công cụ 1: Làm hiệu ứng tựa video và kêu gọi hạnh động Online","Công cụ 2: Làm hiệu ứng chuyển cảnh bằng App với thư viện hơn 20 mẫu chuyển cảnh da dạng","Công cụ 3: Biên tập video bằng Proshow Producer","Kết xuất video ra các định dạng"]
+                    
+                },
+                {
+                    "title":"5. Thực hành Video Marketing",
+                    "product":["Kết hợp 3 công cụ Video Marketing bao gồm App Video, Video Online và phần mềm dựng clips Producer để làm các dạng video marketing","Mỗi nhóm chia 2 bạn 1 đề tài thực hiện các phiên bản video","Mổi video gồm 2 version từ 15″, 30″, 60″"]
+                    
+                },
+                {
+                    "title":"6. Quảng bá Video + Livestream video có sẵn",
+                    "product":["Tạo Youtube Channel và tối ưu hóa Channel và bật chế độ kiếm tiền","SEO Video trên Channel"]
+                    
+                }]
+            }
+        },
+        {
+            "name": "Thiết kế 3D kiến trúc - nội thất",
+            "banner":"",
+            "content": "Khóa học Thiết kế nội ngoại thất 3D được thiết kế với hai nội dung chính là Dựng mô hình nội ngoại thất với 3Ds Max và Kết xuất hình ảnh nội ngoại thất với V-Ray, nhằm hướng dẫn học viên hoàn chỉnh mô hình thiết kế nội ngoại thất 3D trong 100 giờ học.",
+            "program":{
+                "target" : {
+                    "skill": ["Biết sử dụng phần mềm 3Ds Max trong việc dựng mô hình 3D, tạo chất liệu, thiết lập ánh sáng, đặt camera, hoạt ảnh và kết xuất.","Vận dụng các công cụ trong việc thiết kế mô hình 3D.","Vận dụng, phân tích tạo chất liệu cho các đối tượng khác nhau.","Vận dụng đặt ánh sáng cũng như góc camera cho việc hoạt ảnh, kết xuất hình ảnh nội thất, ngoại thất.","Biết sử dụng plug-ins V-Ray trong việc thiết lập thông số, tạo chất liệu, thiết lập ánh sáng và kết xuất hình ảnh."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế đồ họa cho quảng cáo cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Học viên đam mê thiết kế","Dành cho mọi đối tượng yêu thích đồ họa, thiết kế, dựng mô hình 3D, mô hình kiến trúc nội thất, ngoại thất."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế 3D kiến trúc - nội thất do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"1. Module 1: Dựng mô hình nội ngoại thất với 3Ds Max",
+                    "product":["Giới thiệu Autodesk 3Ds Max","Các đối tượng cơ bản ","Thao tác với Spline","Lofting, Xoắn (Twisting), và Biến đổi (Deforming) các đối tượng","Biên tập chất liệu: Tạo chất liệu","Biên tập chất liệu: Texture Maps","Biên tập chất liệu: Điều khiển texture maps"]
+                },{
+                    "title":"2. Module2: Kết xuất hình ảnh nội ngoại thất với V-Ray",
+                    "product":["Giao diện người dùng và V-Ray Frame Buffer","Các hệ máy Render (Render Engines)","Lấy mẫu hình ảnh (Sampling)","Ánh sáng với V-Ray","Chiếu sáng toàn cầu (Global Illumination)","Chiếu sáng toàn cầu (Global Illumination)","Máy ảnh (Camera)","Chất liệu V-Ray","Hiệu ứng môi trường","Hình học động (Dynamic Geometry)","Kết xuất ảnh thành phần"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Thiết kế TVC 3D",
+            "banner":"",
+            "content": "TVC quảng cáo cần truyền đạt ý tưởng ngắn gọn và tinh tế chỉ trong khoảng từ 15 đến 30 giây giúp khơi gợi những cảm xúc riêng và chạm tới trái tim người xem, nhưng phải theo đúng cá tính, định hướng cũng như chiến lược thương hiệu.",
+            "program":{
+                "target" : {
+                    "skill": ["Sau khi học xong, bạn sẽ tiếp cận công nghệ thể hiện 3D sản phẩm cho 3D TVC, 3D Poster, 3D Print Ads…"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế TVC 3D cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Học viên đam mê thiết kế","Dành cho mọi đối tượng yêu thích đồ họa, thiết kế, dựng mô hình 3D"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế TVC 3D do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"1. Module 1: Dựng mô hình nội ngoại thất với 3Ds Max",
+                    "product":["Giới thiệu Autodesk 3Ds Max","Các đối tượng cơ bản ","Thao tác với Spline","Lofting, Xoắn (Twisting), và Biến đổi (Deforming) các đối tượng","Biên tập chất liệu: Tạo chất liệu","Biên tập chất liệu: Texture Maps","Biên tập chất liệu: Điều khiển texture maps"]
+                },{
+                    "title":"2. Module2: Kết xuất hình ảnh nội ngoại thất với V-Ray",
+                    "product":["Giao diện người dùng và V-Ray Frame Buffer","Các hệ máy Render (Render Engines)","Lấy mẫu hình ảnh (Sampling)","Ánh sáng với V-Ray","Chiếu sáng toàn cầu (Global Illumination)","Chiếu sáng toàn cầu (Global Illumination)","Máy ảnh (Camera)","Chất liệu V-Ray","Hiệu ứng môi trường","Hình học động (Dynamic Geometry)","Kết xuất ảnh thành phần"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Thiết kế hoạt hình 2D",
+            "banner":"",
+            "content": "Khóa học làm phim hoạt hình 2D do Design24 tổ chức với mục đích giúp các bạn có thể tạo ra những thước phim hoạt hình 2D đặc sắc,hấp dẫn với các chuyển động mượt mà.Hình ảnh sắc nét giúp tăng doanh thu và vượt qua đối thủ cùng nội dung, khóa học sản xuất phim hoạt hình này đang là khóa học thời thượng của năm 2021!",
+            "program":{
+                "target" : {
+                    "skill": ["Bất kỳ nội dung hoạt hình nào, hay sản phẩm mà bạn thích hoặc có ý tưởng","Sản xuất ra các sản phẩm hoạt hình tương tự các kênh đang hot hiện nay: Beep Beep TV, Supper Kids TV, CrazyTV, Peppa Pig…","Các loại nội dung như: Spiderman, Elsa, Egg, Coloring, Drawing, monster truck, picture show, education, funny, prank…."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế hoạt hình 2D cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Học viên đam mê thiết kế","Dành cho các cá nhân hay tổ chức đang đã và sẽ sản xuất nội dung kiếm tiền trên youtube, các đối tác Youtube, hay các kênh nội dung hoạt hình dành cho thiếu nhi, HDMotion khai giảng khóa học Sản xuất phim hoạt hình 2D chơi Youtube."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế hoạt hình 2D do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"",
+                    "product":[]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Thiết kế 3D event",
+            "banner":"",
+            "content": "Hàng ngày xem tivi, báo chí, bạn sẽ thấy bao nhiêu là tin tức về: lễ khánh thành, khởi công, kỷ niệm; Show trình diễn, giới thiệu sản phẩm; Hội chợ triển lãm, hội nghị khách hàng…Cũng vào Google nhưng với từ khóa “đào tạo thiết kế sự kiện” bạn sẽ không tìm thấy một kết quả nào. Tại sao lại như vậy? các doanh nghiệp hoạt động sẽ lấy nguồn nhân lực thiết kế từ đâu?. Nhận ra khoảng trống trong thị trường đào tạo, với truyền thống là đơn vị tiên phong trong việc xây dựng các chương trình đào tạo thiết kế phục vụ xã hội. Chương trình Chuyên Viên Thiết Kế Sự Kiện nhằm đào tạo nên những chuyên gia thực thụ trong lĩnh vực thiết kế 3 chiều cho các sự kiện trình diễn, giới thiệu sản phẩm, hội nghị.",
+            "program":{
+                "target" : {
+                    "skill": ["Bất kỳ nội dung hoạt hình nào, hay sản phẩm mà bạn thích hoặc có ý tưởng","Sản xuất ra các sản phẩm hoạt hình tương tự các kênh đang hot hiện nay: Beep Beep TV, Supper Kids TV, CrazyTV, Peppa Pig…","Các loại nội dung như: Spiderman, Elsa, Egg, Coloring, Drawing, monster truck, picture show, education, funny, prank…."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế 3D event cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Các bạn yêu thích ngành thiết kế đồ họa 3D và mong muốn trở thành chuyên gia thiết kế 3D cho các sự kiện quảng cáo chuyên nghiệp."," Sinh viên chuyên nghành thiết kế, mỹ thuật, in, marketing…"," Các Designer đang làm việc trong các công ty quảng cáo cần nâng cao chuyên môn trong lĩnh vực thiết kế sự kiện."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế hoạt hình 2D do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"1. 3D Smax - Basic Level",
+                    "product":[" Giao diện và các công cụ cơ bản","Chỉnh sửa đối tượng","Setting, quản lý layer, tính chất đối tượng","Render"," Ánh sáng","Chất liệu"]
+                },
+                {
+                    "title":"3D Events Specialist",
+                    "product":[" Giới thiệu về tổ chức sự kiện","Phân loại","Quy trình thực hiện tổ chức sự kiện","Ý tưởng, concept sự kiện"," Thiết kế phần cứng (hạng mục thi công)"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Biên tập & dựng phim",
+            "banner":"",
+            "content": "Hàng ngày xem tivi, báo chí, bạn sẽ thấy bao nhiêu là tin tức về: lễ khánh thành, khởi công, kỷ niệm; Show trình diễn, giới thiệu sản phẩm; Hội chợ triển lãm, hội nghị khách hàng…Cũng vào Google nhưng với từ khóa “đào tạo thiết kế sự kiện” bạn sẽ không tìm thấy một kết quả nào. Tại sao lại như vậy? các doanh nghiệp hoạt động sẽ lấy nguồn nhân lực thiết kế từ đâu?. Nhận ra khoảng trống trong thị trường đào tạo, với truyền thống là đơn vị tiên phong trong việc xây dựng các chương trình đào tạo thiết kế phục vụ xã hội. Chương trình Chuyên Viên Thiết Kế Sự Kiện nhằm đào tạo nên những chuyên gia thực thụ trong lĩnh vực thiết kế 3 chiều cho các sự kiện trình diễn, giới thiệu sản phẩm, hội nghị.",
+            "program":{
+                "target" : {
+                    "skill": ["Có kiến thức căn bản về nghệ thuật dựng phim.","Có thể xem và đánh giá về một bộ phim hay một video theo cách riêng dựa vào các kiến thức đã học.","Biết cách sử dụng phần mềm Premiere và các phần mềm hỗ trợ để có thể làm những video theo mong muốn.","Biết cách sử dụng phần mềm After Effect để tạo hiệu ứng và làm một số kỹ xảo như biến hình, phân thân, ghép trường quay ảo,..."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Biên tập và dựng phim cuối khóa học"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Dành cho mọi đối tượng học về các lĩnh vực dựng và biên tập video","Học sinh, sinh viên,… người có đam mê với điện ảnh"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Biên tập và dựng phim do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"BIÊN KỊCH, ĐẠO DIỄN",
+                    "product":[]
+                },
+                {
+                    "title":"DỰNG PHIM VỚI PHẦN MỀM ADOBE PREMIERE(CƠ BẢN)",
+                    "product":[]
+                },
+                {
+                    "title":"ÂM THANH, NHẠC TRONG PHIM (CÔNG NGHỆ THU THANH TIỀN KỲ VÀ HẬU KỲ)",
+                    "product":[]
+                },
+                {
+                    "title":" KỸ XẢO ĐIỆN ẢNH TRUYỀN HÌNH (VỚI PHẦN MỀM ADOBE AFTER EFFECT)",
+                    "product":[]
+                }
+               
+                ]
+            }
+        },
+        {
+            "name": "Biên tập & dựng phim",
+            "banner":"",
+            "content": "Khóa học MC & dẫn chương trình thực tế của viện Design24 sẽ giúp học viên biết cách nói chuyện hóm hỉnh, thực tế thông qua những kỹ thuật căn bản đến nâng cao để trở thành một người nói chuyện trước công chúng ấn tượng hay một MC chuyên nghiệp. Khóa học phù hợp với những bạn đang cần tìm cho mình một hướng sự nghiệp đòi hỏi sự duyên dáng, tinh tế và chuyên nghiệp như nghề MC; học sinh, sinh viên các chuyên ngành, đặc biệt là chuyên ngành phát thanh – truyền hình, diễn xuất, MC, biên tập…; bất cứ ai đang nuôi dưỡng ước mơ trở thành MC truyền hình, MC sự kiện. ",
+            "program":{
+                "target" : {
+                    "skill": ["Tự tin dẫn chương trình theo phong cách riêng của mình","Xây dựng bài nói chuyện hấp dẫn và lôi cuốn tất cả mọi người","Khắc phục các hạn chế như cách phát âm, sử dụng giọng điệu, ngôn ngữ cơ thể","Nắm bắt tâm lý khán giả để có thể phát ra những câu từ mê hoặc người nghe","Từ bước chân, dáng đi, cách cầm micro, đến các ngôn từ đều chuyên nghiệp, có cá tính và lôi cuốn cả những khán giả khó tính nhất."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án MC & dẫn chương trình thực tế cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Các cá nhân muốn rèn luyện và nâng cao kỹ năng thuyết trình trước đám đông.","Các doanh nhân, những người làm việc trong những ngành nghề thường xuyên giao tiếp và nói trước công chúng.","Những người có nhu cầu cải thiện và nâng cao kỹ năng giao tiếp và nói chuyện trước công chúng."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học MC & dẫn chương trình thực tế do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"Phần 1. Ngoại hình và Tác phong sân khấu",
+                    "product":["Khắc họa chân dung người dẫn chương trình","Giới thiệu chân dung người MC.","Hướng dẫn cách xây dựng hình ảnh cho người dẫn chương trình","Khai phá bản thân và định hình phong cách MC của riêng mình","Những kỹ năng đối diện ống kính truyền hình như: Cách đi, cách đứng, cách cầm micro, nhìn có điểm rơi, hành vi cử chỉ"]
+                },
+                {
+                    "title":"Phần 2. Giọng nói",
+                    "product":["Phát âm một cách tròn vành rõ chữ","Biết cách làm chủ giọng nói của mình: điều chỉnh tông giọng, cường độ, cao độ cho phù hợp với ngữ cảnh","Nắm được kĩ thuật lấy hơi, giữ hơi, nói giọng bụng.","Rèn luyện các kỹ thuật phát âm chuẩn: lấy hơi, giữ hơi, nói giọng bụng, điều chỉnh tông giọng","Thu âm và chỉnh sửa","Diễn đạt cảm xúc bằng giọng nói","Rèn luyện kỹ năng đọc diễn cảm: Cách ngắt câu, ngữ điệu"]
+                },
+                {
+                    "title":"Phần 3. Làm chủ sân khấu",
+                    "product":["Kĩ năng xử lý những tình huống bất ngờ trên sân khấu","Nhanh chóng lấy lại được phong độ và tự tin khi có sự cố xảy ra.","Biết sử dụng những lời nói, cử chỉ để đánh lạc hướng khán giả.","Giải quyết tốt tình huống bất ngờ không có trong kịch bản, tránh được cảm giác nhàm chán cho khán giả.","Biết cách ứng biến chuyên nghiệp, khiến tiết mục không có thời gian chết.","Thủ thuật tâm lý chinh phục người nghe một cách ấn tượng và đầy thuyết phục","Sử dụng phi ngôn ngữ chuyên nghiệp như ánh mắt, cách chào hỏi, cách bắt tay, cách mỉm cười, cách nói chuyện."]
+                },
+                {
+                    "title":"Phần 4. Kỹ năng tìm kiếm ý tưởng & diễn đạt",
+                    "product":["Các phương pháp tìm ý tưởng để viết lời dẫn chương trình","Nắm bắt được những “gu” hoặc thị hiếu của công chúng khán giả trong chương trình mà người dẫn đảm nhiệm","Các thủ thuật tư duy để sáng tạo trong viết lời dẫn chương trình","Rèn luyện các kỹ năng ghi nhớ và ứng dụng viết lời dẫn chương trình"]
+                },
+                {
+                    "title":"Phần 5. Thực hành",
+                    "product":[]
+                }
+                
+               
+                ]
+            }
+        },
+        {
+            "name": "Quay phim",
+            "banner":"",
+            "content": "Khóa học MC & dẫn chương trình thực tế của viện Design24 sẽ giúp học viên biết cách nói chuyện hóm hỉnh, thực tế thông qua những kỹ thuật căn bản đến nâng cao để trở thành một người nói chuyện trước công chúng ấn tượng hay một MC chuyên nghiệp. Khóa học phù hợp với những bạn đang cần tìm cho mình một hướng sự nghiệp đòi hỏi sự duyên dáng, tinh tế và chuyên nghiệp như nghề MC; học sinh, sinh viên các chuyên ngành, đặc biệt là chuyên ngành phát thanh – truyền hình, diễn xuất, MC, biên tập…; bất cứ ai đang nuôi dưỡng ước mơ trở thành MC truyền hình, MC sự kiện. ",
+            "program":{
+                "target" : {
+                    "skill": ["Thuần thục các thao tác xử lý máy, kiểm soát các thông số, hiệu chỉnh các chức năng chuyên biệt của máy ảnh cho tác vụ quay phim.","Nắm bắt các kiến thức về bố cục khung hình, ánh sáng và thuật ngữ chuyên ngành của quay phim."," Trở thành dân chuyên nghiệp trong cách chọn và sử dụng Lens phù hợp cho từng khung hình.","Tiếp cận các thiết bị (equipments) hỗ trợ cho quay phim nói chung và đặc biệt phù hợp với máy quay DSLR và Mirrorless."," Tự mình quay những đoạn phim chuyên nghiệp, phục vụ cho MV Ca Nhạc, Phim Ngắn, Phim Doanh Nghiệp, Phim Sự Kiện, Phim Phóng Sự, sáng tạo nội dung cho Youtube, Vlog, Video Review sản phẩm, Video Travel... "],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án MC & dẫn chương trình thực tế cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Khoá học phù hợp với những ai mong muốn sáng tác những Video Clip đẹp mắt, chuyên nghiệp."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học quay phim do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"Buổi 01 - Tìm hiểu về làm phim, vị trí Camera Man",
+                    "product":["Tóm tắt sơ lược vị trí, vai trò của Camera Man.","Đưa ra Mindset cho học viên để có kiến thức cơ bản.","Kiến thức về quy trình sản xuất ra một 1 video."]
+                },
+                {
+                    "title":"Buổi 02 - Làm quen với thiết bị",
+                    "product":["Làm quen với quay phim bằng DSLR – Mirrorless.","Cách setup máy cơ bản.","Lựa chọn thiết bị phù hợp với từng học viên, và ứng dụng thực tiễn.","Tối ưu thiết bị sẵn có."]
+                },
+                {
+                    "title":"Buổi 03 - Đo sáng trong quay Film – Lấy nét – Các chế độ quay",
+                    "product":["Tam giác đo sáng trong quay phim (tốc độ màn trập, khẩu độ, ISO).","Cân bằng trắng (WB, độ K) trong quay film, cân bằng nhiệt độ môi trường.","Các chế độ quay: Picture profile, S-log, B & W …"]
+                },
+                {
+                    "title":"Buổi 04 - Lens , tiêu cự, Auto focus, Manual Focus",
+                    "product":["Auto focus và Manual Focus","Ứng dụng thực tiễn."]
+                },
+                {
+                    "title":"Buổi 05 - Bố cục hình ảnh, ngôn ngữ hình ảnh, đọc hiểu story board",
+                    "product":["Bố cục trong quay phim cơ bản (Cận – trung – toàn).","Story board. Hướng dẫn xây dựng ý tưởng hình ảnh, câu chuyện hình ảnh."]
+                }
+                ,
+                {
+                    "title":"Buổi 06 - Động tác máy, các thiết bị hỗ trợ",
+                    "product":["Các ứng dụng thao tác máy trong quay film.","Hướng dẫn sử dụng các thiết bị hỗ trợ trong quay film (tripod, gimbal, dolly…)"]
+                }
+                ,
+                {
+                    "title":"Buổi 07 - Ánh sáng cơ bản trong quay phim (Lighting)",
+                    "product":["Ánh sáng trong film, điện ảnh.","Cách setup ánh sang cơ bản trong quay phỏng vấn, quảng cáo.","Tận dụng nguồn sáng sẵn có trong các điều kiện môi trường."]
+                },
+                {
+                    "title":"Buổi 08 - Thực hành ngoại khóa",
+                    "product":["Cọ sát với thực tiễn với các chủ đề: Studio, Outside, Inside, Lookbook, Travel…"]
+                },
+                {
+                    "title":"Buổi 09 - Hướng dẫn cơ bản kịch bản, location (bối cảnh), thời gian…",
+                    "product":["Hướng dẫn cách kể câu chuyện bằng hình ảnh.","Hướng dẫn cách chọn bối cảnh."]
+                },
+                {
+                    "title":"Buổi 10 - Tổng kết & Review đồ án cuối khoá",
+                    "product":[]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Nhiếp ảnh",
+            "banner":"",
+            "content": "Nếu bạn đang mong ước về việc được học nhiếp ảnh từ con số 0, mà không cần có máy ảnh, đây chính là lựa chọn hoàn hảo cho bạn! Khoá học nhiếp ảnh cho người mới bắt đầu giúp bạn hiểu rõ về việc sử dụng, điều chỉnh các thông số của máy ảnh DSLR. Giúp bạn trang bị những kiến thức cơ bản nhất về việc sử dụng và điều chỉnh các nguồn sáng.",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững kiến thức cơ bản về máy ảnh DSLR","Biết cách điều chỉnh ánh sáng và tạo bố cục cho ảnh","Thực hành chụp ảnh với Studio của colorME","Chỉnh sửa hậu kì ảnh với phần mềm Adobe Lightroom"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Nhiếp ảnh cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Khoá học phù hợp với những ai mong muốn trở thành nhiếp ảnh chuyên nghiệp", "Có đam mê yêu thích nhiếp ảnh"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Nhiếp ảnh do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[{
+                    "title":"Buổi 01 - Tổng quan về Nhiếp ảnh",
+                    "product":["Hiểu về Nhiếp ảnh.","Hiểu về Workflow trong Nhiếp ảnh.","Có cái nhìn tổng quan về các nhiếp ảnh gia và các phong cách Nhiếp ảnh.","Nắm các vấn đề quan trọng trong Nhiếp ảnh.","Biết cách tham khảo và tìm ý tưởng để chụp ảnh.","Hiểu tổng quan về bố cục.","Nắm vững các bố cục cơ bản.","Cách để có bố cục đẹp."]
+                },
+                {
+                    "title":"Buổi 02 - Tìm hiểu về tiêu cự, DOF, WB - Ánh sáng part 1",
+                    "product":["Độ phơi sáng (Exposure).","Cách đọc Exposure Histogram.","Ánh sáng part 1"," Thực hành nhỏ về “Độ phơi sáng” và “Màu sắc”"]
+                },
+                {
+                    "title":"Buổi 03 - Tìm hiểu về tiêu cự, DOF, WB - Ánh sáng part 2",
+                    "product":["Ánh sáng (Part 2)","Ống kính (lens), cảm biến (sensor)."," Thực hành nhỏ về “Màu sắc” & “Focus và DOF”"]
+                },
+                {
+                    "title":"Buổi 04 - Thực hành chụp Studio",
+                    "product":["Thực hành chụp Studio."]
+                },
+                {
+                    "title":"Buổi 05 - Tìm hiểu ảnh kỹ thuật số và ảnh in - Thực hành với Lightroom",
+                    "product":["Các vấn đề về ảnh số và ảnh in.","Thực hành chỉnh sửa ảnh bằng Lightroom."]
+                }
+                ,
+                {
+                    "title":"Buổi 06 - Quan sát kỹ thuật chụp ảnh",
+                    "product":["Các vấn đề liên quan đến kỹ thuật chụp.","Chuẩn bị trước khi chụp như thế nào để có thể tự tin hơn và có ảnh tốt hơn.","Kinh nghiệm với ánh sáng và bố cục.","Cách giao tiếp với “mẫu”.","Cách xử lý các vấn đề khi chụp."]
+                }
+                ,
+                {
+                    "title":"Buổi 07 - Thực hành chụp ngoại cảnh với mẫu",
+                    "product":["Giao tiếp với mẫu.","Cách xử lý với ánh sáng tự nhiên."]
+                },
+                
+                {
+                    "title":"Buổi 8 - Tổng kết & Review đồ án cuối khoá",
+                    "product":[]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Thiết kế Website",
+            "banner":"",
+            "content": "Nếu bạn đang mong ước về việc được học nhiếp ảnh từ con số 0, mà không cần có máy ảnh, đây chính là lựa chọn hoàn hảo cho bạn! Khoá học nhiếp ảnh cho người mới bắt đầu giúp bạn hiểu rõ về việc sử dụng, điều chỉnh các thông số của máy ảnh DSLR. Giúp bạn trang bị những kiến thức cơ bản nhất về việc sử dụng và điều chỉnh các nguồn sáng.",
+            "program":{
+                "target" : {
+                    "skill": ["Thiết kế Web theo Layout mới, hiện đại","Nắm bắt phương pháp thiết kế hình ảnh động (Animation) với HTML5 và CSS3","Cập nhật xu hướng Responsive Web Design","Thực hành trực tiếp bằng sản phẩm Web thực tế"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Thiết kế Website cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                },
+                "participants": ["Sinh viên các trường Đại học, Cao đẳng, Trung cấp nghề muốn trang bị thêm kiến thức về thiết kế Website.", "Người đi làm mong muốn có thêm những kiến thức để tự tay thiết kế phục vụ cho Website"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế Website do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"Môn 1: Thiết kế Web với HTML5, CSS3",
+                    "product":["Ngôn Ngữ HTML","Thiết kế, trình bày trang Web","Xây dựng nội dung trang Web","CSS – Cascading Style Sheet","Sử dụng Behavior cho các đối tượng trong trang Web","Thiết kế biểu mẫu – FORM","Xây dựng trang Mẫu – Template","Slide – Tạo nhanh Template","Tự thiết kế website đơn giản","Xây dựng trang Khung – Framesets"]}
+                ,
+                {
+                    "title":"Môn 2: Thiết kế Responsive Web và Animation với CSS 3",
+                    "product":["Khái quát về Responsive (bố cục Responsive, phân tích Responsive chuẩn, cấu trúc CSS trong Responsive)","Xây dựng trang Responsive cơ bản","ệ thống lưới (Grid) & ứng dụng xây dựng Responsive Web với Bootstrap theo dạng lưới.","CSS3 Framework - Ứng dụng Framework dựng Responsive","Ứng dụng Layout cá nhân tương thích Responsive","Thủ thuật xử lý thường dùng (Menu, hình ảnh, form)","Tạo hiệu ứng trong trang web với Transform, Transition và Animation","Thiết kế Banner động với nhiều hiệu ứng kết hợp","Hoàn chỉnh ứng dụng và Public Website lên Host"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "App Mobile",
+            "banner":"",
+            "content": "",
+            "program":{
+                "target" : {
+                    "skill": [],
+                    "method":[],
+                    "quality":[]
+                },
+                "participants": [],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế Website do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"",
+                    "product":[]
+                }
+                ,
+                {
+                    "title":"",
+                    "product":[]
+                }
+                ]
+            }
+        }
+        ,
+        {
+            "name": "Thiết kế & thi công công trình quảng cáo",
+            "banner":"",
+            "content": "",
+            "program":{
+                "target" : {
+                    "skill": [],
+                    "method":[],
+                    "quality":[]
+                },
+                "participants": [],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế Website do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"",
+                    "product":[]
+                }
+                ,
+                {
+                    "title":"",
+                    "product":[]
+                }
+                ]
+            }
+        },
+        {
+            "name": "Tổ chức sự kiện",
+            "banner":"",
+            "content": "Tham gia khóa học, bạn sẽ biết cách quản lý và tổ chức sự kiện (TCSK) hiệu quả sau khi được trải nghiệm những kiến thức thực tiễn từ quy trình quản lý, tổ chức các sự kiện từ nội bộ đến chuyên nghiệp nâng cao; được chia sẻ kinh nghiệm từ những Giảng viên là các chuyên gia trong lĩnh vực TCSK ở Việt Nam.",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững hệ thống kiến thức về tổ chức và quản lý sự kiện.", "Nắm vững quy trình tổ chức và quản lý sự kiện chuyên nghiệp.", "Hoàn thiện các kỹ năng thiết yếu để có thể triển khai, tổ chức các sự kiện một cách chuyên nghiệp và hiệu quả."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Tổ chức sự kiện cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Nhân viên phụ trách công việc tổ chức sự kiện và tiếp thị tại các doanh nghiệp.","Nhân viên các công ty quảng cáo, tổ chức sự kiện và dịch vụ tiếp thị.","Các nhà quản trị thương hiệu, nhân viên bộ phận truyền thông pr.","Sinh viên các chuyên ngành có liên quan đến tổ chức sự kiện.","Những người yêu thích tổ chức sự kiện và muốn trở thành chuyên viên Event chuyên nghiệp."],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Tổ chức sự kiện do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"1. Phần 1 ",
+                    "product":["Tổng quan về ngành Tổ chức sự kiện tại Việt Nam, các giai đoạn hình thành và phát triển", "Những ngộ nhận về ngành này","Các tố chất cần thiết để làm việc được trong ngành Tổ chức sự kiện","Các loại hình tổ chức sự kiện","Vai trò của tổ chức sự kiện đối với doanh nghiệp kinh doanh, đối với văn hóa thưởng thức và ảnh hưởng xã hội","Học xong khóa học có thể làm việc được ở những vị trí nào trong ngành Tổ chức sự kiện"]
+                }
+                ,
+                {
+                    "title":"2. Phần 2",
+                    "product":["Phân tích và tìm hiểu sâu các loại hình tổ chức sự kiện, tìm hiểu các hạng mục cần có của từng loại hình sự kiện","Tìm hiểu kỹ lưỡng các bước trong quy trình chuẩn để tổ chức và thực hiện một sự kiện"]
+                }
+                ,
+                {
+                    "title":"3. Phần 3",
+                    "product":["Cách tìm hiểu và lấy thông tin từ sự kiện sắp thực hiện","Cách phát triển ý tưởng cho từng loại sự kiện","Cách lập checklist chi tiết các công việc cần thực hiện, quản lý thời gian, tiến độ, nguồn lực, nhân sự"]
+                }
+                ,
+                {
+                    "title":"4. Phần 4",
+                    "product":["Cách hoạch định ngân sách và tính toán chi phí cho các loại hình sự kiện","Tính toán doanh thu – chi phí – lợi nhuận cho một sự kiện"]
+                }
+                ,
+                {
+                    "title":"5. Phần 5",
+                    "product":["Cách thức xin giấy phép tổ chức sự kiện đối với từng loại hình sự kiện (biểu diễn nghệ thuật, roadshow, event…)","Cách làm việc và giữ quan hệ với giới nghệ thuật (ca sĩ, nghệ sĩ…)","Cách làm việc và thương lượng với các nhà cung cấp các thiết bị cứng và công cụ mềm cho việc thực hiện sự kiện (sân bãi, nhà hát, âm thanh, ánh sáng, PG, trang phục, đạo cụ…)","Cách quản lý các Agency cung cấp trọn gói dịch vụ tổ chức sự kiện"]
+                }
+                ,
+                {
+                    "title":"6. Phần 6",
+                    "product":["Cách thức viết Proposal để trình bày về sự kiện sắp thực hiện","Cách làm việc và quản lý bộ phận thiết kế hình ảnh cho Proposal","Các yếu tố đặc biệt lưu ý khi viết Proposal"]
+                }
+                ,
+                {
+                    "title":"7. Phần 7",
+                    "product":["Tìm hiểu chuyên sâu về cách setup âm thanh ánh sáng và phần hình ảnh cho 1 sự kiện lớn","Những lưu ý đặc biệt khi setup các chương trình ca nhạc đông người"]
+                }
+                ,
+                {
+                    "title":"8. Phần 8  ",
+                    "product":["Tìm hiểu chuyên sâu về khảo sát địa điểm làm chương trình","Những ghi chú đặc biệt cần thiết khi khảo sát để có thể thực hiện tốt chương trình","Tìm hiểu về sân khấu của chương trình","Cách setup sân khấu"]
+                }
+                ,
+                {
+                    "title":"9. Phần 9",
+                    "product":["Tìm hiểu chuyên sâu về kịch bản cho 1 sự kiện, các loại kịch bản cần cho 1 sự kiện lớn", "Cách viết kịch bản"]
+                }
+                ]
+            }
+        }
+        ,
+        {
+            "name": "Livestream bán hàng online",
+            "banner":"",
+            "content": "",
+            "program":{
+                "target" : {
+                    "skill": ["Thứ 01:  Bí kíp loại bỏ sự ngại ngùng","Thứ 02:  Bí kíp livestream với phong cách chuyên nghiệp","Thứ 03:  Kỹ thuật chốt sales đỉnh cao","Thứ 04:  Trả lời tin nhắn chắc chắn không sót"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án Livestream bán hàng online cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Chưa biết kỹ thuật livestream như thế nào ?","Chưa biết sử dụng dụng cụ gì ?","Ngại ngùng không dám đứng trước nhiều người livestream ?","Không biết làm sao cho livestream của mình thu hút, hấp dẫn ?"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học Livestream bán hàng online do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"Buổi 01: Chia sẻ 3 bí mật livestream thành công",
+                    "product":["Bí mật livestream đúng người xem, đúng khách hàng tiềm năng","Bí mật khiến khách hàng ở lại livestream cực kì lâu","Bí mật làm sao bạn có thể tự tin chốt đơn hàng nhanh chóng"," Lý do vì sao bạn vẫn chưa thể livestream được","Lý do vì sao livestream của bạn ít lượt xem","Lý do vì sao bạn không chốt được đơn khi livestream"]
+                }
+                ,
+                {
+                    "title":"Buổi 02: Tự tin livestream chuyên nghiệp",
+                    "product":["Trở thành chuyên gia viết kịch bản livestream cho mọi sản phẩm.","Không ngại ngùng và lo lắng khi livestream.","8 bí quyết khiến người xem yêu thích livestream.","Tạo game show hoàn toàn mới cuốn hút người xem.","Cách xử lý các tình huống khi khách hàng hỏi giá.","Các tuyệt chiêu chốt sale đỉnh cao qua tin nhắn & điện thoại"]
+                },
+                {
+                    "title":"Buổi 03: Thực hành livestream trên lớp",
+                    "product":["Thực hành công thức vượt qua tự ti trở nên chuyên nghiệp hơn.","Thực hành mô tả sản phẩm hàng vạn người thích.","Tiến hành livestream thực tế sản phẩm trên lớp học bắt cặp 1 -1.","Giảng viên đánh giá hoạt từng bài livestream của từng học viên.","Học viên thực hành livestream lần 2.","Hỗ trợ tư vấn thiết bị livestream chuyên nghiệp","Hỗ trợ quay livestream trong studio chuyên nghiệp"]
+                },
+                {
+                    "title":"Buổi 04: Sử dụng các công cụ hỗ trợ livestream và hình ảnh hiệu quả",
+                    "product":["Sử dụng công cụ tự động share livestream vào group","Hướng dẫn cách phát lại livestream đã live","Buff tăng mắt, tăng tương tác livestream","Cách livestream trên 1 video có sẵn, kéo người xem về facebook","Cách tăng mắt, tăng tương tác livestream có phí và trả phí","Hướng dẫn làm hình ảnh sản phẩm chuyên nghiệp đơn giản (tặng thêm)"]
+                }
+                ]
+            }
+        }
+        ,
+        {
+            "name": "Đồ họa cho trẻ em",
+            "banner":"",
+            "content": "Khóa học Đồ Họa Trẻ Em (Design For Kid) là sự ứng dụng công cụ thiết kế trên bảng vẽ điện tử (Wacom) hiện đại, giúp trẻ có thời gian và môi trường trải nghiệm đồ họa đầy lí thú.",
+            "program":{
+                "target" : {
+                    "skill": ["Được thỏa sức sáng tạo qua hình vẽ của riêng trẻ và cách phối màu sắc.","Kỹ năng sử dụng cơ bản công cụ Đồ Họa và 100% thời gian thực hành ứng dụng trên bảng vẽ điện tử (wacom) hiện đại.","Phát triển sở thích cá nhân của trẻ với Đồ Họa, tạo ra từng sản phẩm thiết kế đồ hạo sáng tạo qua từng buổi học, và sử dụng công nghệ theo phương pháp tích cực."],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học","Học viên sẽ hoàn thành đồ án đồ họa cuối khóa"],
+                    "quality":["Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Khóa học Đồ Họa Trẻ Em (Design For Kid) dành cho trẻ từ 10 tuổi trở lên.","Phù hợp với tất cả trẻ yêu thích sáng tạo theo cách của trẻ qua màu sắc và đồ họa"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học đồ họa cho trẻ em do Trung tâm Design 24 cấp",
+                "time":"180 giờ",
+                "content":[
+                {
+                    "title":"Buổi 01: Ứng dụng Wacom với trẻ",
+                    "product":["Hướng dẫn sử dụng bảng vẽ điện tử (Wacom)","Luyện viết chữ trên Wacom"]
+                }
+                ,
+                {
+                    "title":"Buổi 02: Đồ Họa Thiên Nhiên",
+                    "product":["Hướng dẫn vẽ các mẫu hoa - lá cơ bản trên phần mềm đồ họa và wacom","Thực hành vẽ mẫu hoa - lá tự chọn","Thực hành phối màu mẫu hoa - lá"]
+                },
+                {
+                    "title":"Buổi 03: Đồ Họa Vạn Vật",
+                    "product":["Hướng dẫn vẽ các mẫu động vật cơ bản trên phần mềm đồ họa và wacom","Thực hành vẽ mẫu động vật tự chọn ","Thực hành phối màu mẫu động vật "]
+                },
+                {
+                    "title":"Buổi 04: Đồ Họa Đô Thị",
+                    "product":["Hướng dẫn vẽ các mẫu nhà cửa cơ bản trên phần mềm đồ họa và wacom","Thực hành vẽ mẫu nhà cửa tự chọn","Thực hành phối màu mẫu nhà cửa "]
+                },
+                {
+                    "title":"Buổi 05: Tổng hợp",
+                    "product":["Hướng dẫn vẽ các mẫu tranh kết hợp trên phần mềm đồ họa và wacom","Thực hành vẽ mẫu tranh tự chọn","Thực hành phối màu mẫu tranh "]
+                }
+                ]
+            }
+        }
+    ]
+}
