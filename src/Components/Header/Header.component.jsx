@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./header.css";
+import { useHistory } from "react-router-dom";
 const HeaderComponent = () => {
+  let history = useHistory();
   const [menuOpen, setMenuOpen] = useState(false);
   const handleClickOpenMenu = () => {
     setMenuOpen(!menuOpen);
@@ -113,7 +115,12 @@ const HeaderComponent = () => {
             >
               <ul className="mobile-sub wsmenu-list">
                 <li>
-                  <a href="/" className="active">
+                  <a
+                    className="active"
+                    onClick={() => {
+                      history.push("/");
+                    }}
+                  >
                     <i className="fa fa-home" />
                     <span className="hometext" />
                   </a>
