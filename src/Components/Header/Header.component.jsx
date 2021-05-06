@@ -297,120 +297,99 @@ const HeaderComponent = () => {
                   <a href="#">Khóa dài hạn</a>
                   <ul className="wsmenu-submenu">
                     <li>
-                      <a
-                        href="/do-hoa-da-truyen-thong"
-                        onClick={() => handleClickEdu(0)}
-                      >
+                      <a onClick={() => handleClickEdu(0)}>
                         <i class="fas fa-paint-brush"></i>
-                        Đồ họa đa truyền thông
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="/thiet-ke-website"
-                        onClick={() => handleClickEdu(1)}
-                      >
-                        <i className="fa fa-globe" />
                         Thiết kế đồ họa quảng cáo
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/data-science-machine-learning"
-                        onClick={() => handleClickEdu(2)}
-                      >
-                        <i className="fa fa-cogs" />
+                      <a onClick={() => handleClickEdu(1)}>
+                        <i className="fa fa-globe" />
                         Thiết kế video marketing
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/lap-trinh-va-csdl"
-                        onClick={() => handleClickEdu(3)}
-                      >
-                        <i className="fa fa-database" />
-                        Thiết kế đồ họa 3D kiến trúc, nội thất
+                      <a onClick={() => handleClickEdu(2)}>
+                        <i className="fa fa-cogs" />
+                        Thiết kế 3D kiến trúc - nội thất
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/lap-trinh-di-dong"
-                        onClick={() => handleClickEdu(4)}
-                      >
-                        <i className="fa fa-tablet" />
+                      <a onClick={() => handleClickEdu(3)}>
+                        <i className="fa fa-database" />
                         Thiết kế TVC 3D
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/kiem-thu-phan-mem"
-                        onClick={() => handleClickEdu(5)}
-                      >
+                      <a onClick={() => handleClickEdu(4)}>
+                        <i className="fa fa-tablet" />
+                        Thiết kế hoạt hình 2D
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(5)}>
                         <i className="fa fa-check-circle" />
                         Thiết kế 3D event
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/mang-may-tinh"
-                        onClick={() => handleClickEdu(6)}
-                      >
+                      <a onClick={() => handleClickEdu(6)}>
                         <i className="fa fa-sitemap" />
                         Biên tập &amp; dựng phim
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/internet-marketing"
-                        onClick={() => handleClickEdu(7)}
-                      >
+                      <a onClick={() => handleClickEdu(7)}>
                         <i className="fa fa-bar-chart" />
                         MC &amp; dẫn chương trình thực tế
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="http://prokids.csc.edu.vn"
-                        onClick={() => handleClickEdu(8)}
-                      >
+                      <a onClick={() => handleClickEdu(8)}>
                         <i className="fa fa-wrench" />
                         Quay phim
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/tin-hoc-van-phong"
-                        onClick={() => handleClickEdu(9)}
-                      >
+                      <a onClick={() => handleClickEdu(9)}>
                         <i className="fa fa-desktop" />
                         Nhiếp ảnh
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/thvp-chuan-quoc-te-mos"
-                        onClick={() => handleClickEdu(10)}
-                      >
-                        <i className="fa fa-graduation-cap" />
-                        Thiết kế &amp; thi công quảng cáo
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="/thvp-chuan-quoc-te-mos"
-                        onClick={() => handleClickEdu(11)}
-                      >
+                      <a onClick={() => handleClickEdu(10)}>
                         <i className="fa fa-graduation-cap" />
                         Thiết kế Website
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/thvp-chuan-quoc-te-mos"
-                        onClick={() => handleClickEdu(12)}
-                      >
+                      <a onClick={() => handleClickEdu(11)}>
                         <i className="fa fa-graduation-cap" />
-                        Thiết kế App mobile
+                        Thiết kế App Mobile
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(12)}>
+                        <i className="fa fa-graduation-cap" />
+                        Thiết kế & thi công Công Trình Quảng cáo
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(13)}>
+                        <i className="fa fa-graduation-cap" />
+                        Tổ chức sự kiện
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(14)}>
+                        <i className="fa fa-graduation-cap" />
+                        Livestream bán hàng online
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(15)}>
+                        <i className="fa fa-graduation-cap" />
+                        Đồ họa cho thiếu nhi
                       </a>
                     </li>
                   </ul>
