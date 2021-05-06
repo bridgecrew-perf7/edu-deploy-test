@@ -10,6 +10,7 @@ function App() {
       <Route exact path="/" component={PageHomeView}></Route>
       <Route path="/course" component={PageCourseView}></Route>
       <Route path="/archives" component={PageArchivesView}></Route>
+      {/* <Route path="/test" render={(props) => <TestComponent {...props}/>}/> */}
     </HashRouter>
   );
 }

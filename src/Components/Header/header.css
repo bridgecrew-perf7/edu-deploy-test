@@ -170,7 +170,9 @@ input[type="text"] {
   position: relative;
   padding: 0px;
   margin: 0px;
+  height: 30px;
   display: block;
+  border-bottom: 1px solid #666666 !important;
 }
 .wsmenu-submenu li a {
   background: #fff !important;
@@ -185,6 +187,7 @@ input[type="text"] {
   font-size: 15px;
   letter-spacing: normal;
   border-right: 0px solid;
+  font-weight: 500 !important;
 }
 
 .wsmenu-list li:last-child a {
@@ -253,7 +256,7 @@ a:focus {
 
 .wsmenu-list li:hover > a {
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.08) !important;
+  background-color: rgb(0, 130, 200) !important;
 }
 
 @media only screen and (min-width: 230px) and (max-width: 780px) {

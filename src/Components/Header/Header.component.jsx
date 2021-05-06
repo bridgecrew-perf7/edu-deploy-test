@@ -396,6 +396,80 @@ const HeaderComponent = () => {
                 </li>
                 <li>
                   <a>Khóa ngắn hạn</a>
+                  <ul className="wsmenu-submenu">
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        ADOBE PHOTOSHOP
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        ADOBE ILLUSTRATOR
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        ADOBE PREMIERE
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        ADOBE AFTER EFFECT
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        COREL DRAW
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        SKETCHUP
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        NUKE STUDIO
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        BLENDER
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        AUTODESK 3DS MAX
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        AUTODESK MAYA
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        CINEMA 4D
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        UNREAL ENGINE
+                      </a>
+                    </li>
+                  </ul>
                 </li>
                 <li>
                   <a>Khóa Online</a>
