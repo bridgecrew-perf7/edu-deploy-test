@@ -7,6 +7,13 @@ const HeaderComponent = () => {
   const handleClickOpenMenu = () => {
     setMenuOpen(!menuOpen);
   };
+  const handleClickEdu = (value) => {
+    console.log(value);
+    history.push({
+      pathname: "/course",
+      state: { id: value },
+    });
+  };
   return (
     <div>
       <div
@@ -290,79 +297,118 @@ const HeaderComponent = () => {
                   <a href="#">Khóa dài hạn</a>
                   <ul className="wsmenu-submenu">
                     <li>
-                      <a href="/do-hoa-da-truyen-thong">
+                      <a
+                        href="/do-hoa-da-truyen-thong"
+                        onClick={() => handleClickEdu(0)}
+                      >
                         <i class="fas fa-paint-brush"></i>
                         Đồ họa đa truyền thông
                       </a>
                     </li>
                     <li>
-                      <a href="/thiet-ke-website">
+                      <a
+                        href="/thiet-ke-website"
+                        onClick={() => handleClickEdu(1)}
+                      >
                         <i className="fa fa-globe" />
                         Thiết kế đồ họa quảng cáo
                       </a>
                     </li>
                     <li>
-                      <a href="/data-science-machine-learning">
+                      <a
+                        href="/data-science-machine-learning"
+                        onClick={() => handleClickEdu(2)}
+                      >
                         <i className="fa fa-cogs" />
                         Thiết kế video marketing
                       </a>
                     </li>
                     <li>
-                      <a href="/lap-trinh-va-csdl">
+                      <a
+                        href="/lap-trinh-va-csdl"
+                        onClick={() => handleClickEdu(3)}
+                      >
                         <i className="fa fa-database" />
                         Thiết kế đồ họa 3D kiến trúc, nội thất
                       </a>
                     </li>
                     <li>
-                      <a href="/lap-trinh-di-dong">
+                      <a
+                        href="/lap-trinh-di-dong"
+                        onClick={() => handleClickEdu(4)}
+                      >
                         <i className="fa fa-tablet" />
                         Thiết kế TVC 3D
                       </a>
                     </li>
                     <li>
-                      <a href="/kiem-thu-phan-mem">
+                      <a
+                        href="/kiem-thu-phan-mem"
+                        onClick={() => handleClickEdu(5)}
+                      >
                         <i className="fa fa-check-circle" />
                         Thiết kế 3D event
                       </a>
                     </li>
                     <li>
-                      <a href="/mang-may-tinh">
+                      <a
+                        href="/mang-may-tinh"
+                        onClick={() => handleClickEdu(6)}
+                      >
                         <i className="fa fa-sitemap" />
                         Biên tập &amp; dựng phim
                       </a>
                     </li>
                     <li>
-                      <a href="/internet-marketing">
+                      <a
+                        href="/internet-marketing"
+                        onClick={() => handleClickEdu(7)}
+                      >
                         <i className="fa fa-bar-chart" />
                         MC &amp; dẫn chương trình thực tế
                       </a>
                     </li>
                     <li>
-                      <a href="http://prokids.csc.edu.vn">
+                      <a
+                        href="http://prokids.csc.edu.vn"
+                        onClick={() => handleClickEdu(8)}
+                      >
                         <i className="fa fa-wrench" />
                         Quay phim
                       </a>
                     </li>
                     <li>
-                      <a href="/tin-hoc-van-phong">
+                      <a
+                        href="/tin-hoc-van-phong"
+                        onClick={() => handleClickEdu(9)}
+                      >
                         <i className="fa fa-desktop" />
                         Nhiếp ảnh
                       </a>
                     </li>
                     <li>
-                      <a href="/thvp-chuan-quoc-te-mos">
+                      <a
+                        href="/thvp-chuan-quoc-te-mos"
+                        onClick={() => handleClickEdu(10)}
+                      >
                         <i className="fa fa-graduation-cap" />
                         Thiết kế &amp; thi công quảng cáo
                       </a>
                     </li>
                     <li>
-                      <a href="/thvp-chuan-quoc-te-mos">
+                      <a
+                        href="/thvp-chuan-quoc-te-mos"
+                        onClick={() => handleClickEdu(11)}
+                      >
                         <i className="fa fa-graduation-cap" />
                         Thiết kế Website
                       </a>
                     </li>
                     <li>
-                      <a href="/thvp-chuan-quoc-te-mos">
+                      <a
+                        href="/thvp-chuan-quoc-te-mos"
+                        onClick={() => handleClickEdu(12)}
+                      >
                         <i className="fa fa-graduation-cap" />
                         Thiết kế App mobile
                       </a>
