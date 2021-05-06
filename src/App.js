@@ -7,7 +7,7 @@ import PageArchivesView from "./Page/Archives/Page-Archives-View.component";
 function App() {
   return (
     <BrowserRouter>
-      <Route exact path="/" component={PageHomeView}></Route>
+      <Route path="/home" component={PageHomeView}></Route>
       <Route path="/course" component={PageCourseView}></Route>
       <Route path="/archives" component={PageArchivesView}></Route>
     </BrowserRouter>
