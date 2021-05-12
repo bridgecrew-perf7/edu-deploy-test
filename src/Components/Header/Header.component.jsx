@@ -8,10 +8,17 @@ const HeaderComponent = () => {
     setMenuOpen(!menuOpen);
   };
   const handleClickEdu = (value) => {
-    console.log(value);
     history.push({
       pathname: "/course",
       state: { id: value },
+    });
+  };
+
+  const handleClickShortTerm = (value) => {
+    console.log(value);
+    history.push({
+      pathname: "/course-short-term",
+      search: `?id=${value}`,
     });
   };
   return (
@@ -398,73 +405,73 @@ const HeaderComponent = () => {
                   <a>Khóa ngắn hạn</a>
                   <ul className="wsmenu-submenu">
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(0)}>
                         <i class="fas fa-paint-brush"></i>
                         ADOBE PHOTOSHOP
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(1)}>
                         <i class="fas fa-paint-brush"></i>
                         ADOBE ILLUSTRATOR
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(2)}>
                         <i class="fas fa-paint-brush"></i>
                         ADOBE PREMIERE
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(3)}>
                         <i class="fas fa-paint-brush"></i>
                         ADOBE AFTER EFFECT
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(4)}>
                         <i class="fas fa-paint-brush"></i>
                         COREL DRAW
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(5)}>
                         <i class="fas fa-paint-brush"></i>
                         SKETCHUP
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(6)}>
                         <i class="fas fa-paint-brush"></i>
                         NUKE STUDIO
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(7)}>
                         <i class="fas fa-paint-brush"></i>
                         BLENDER
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(8)}>
                         <i class="fas fa-paint-brush"></i>
                         AUTODESK 3DS MAX
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(9)}>
                         <i class="fas fa-paint-brush"></i>
                         AUTODESK MAYA
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(10)}>
                         <i class="fas fa-paint-brush"></i>
                         CINEMA 4D
                       </a>
                     </li>
                     <li>
-                      <a>
+                      <a onClick={() => handleClickShortTerm(11)}>
                         <i class="fas fa-paint-brush"></i>
                         UNREAL ENGINE
                       </a>

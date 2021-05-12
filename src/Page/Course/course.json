@@ -560,5 +560,92 @@
                 ]
             }
         }
+    ],
+    "courseShort": [
+        {
+            "name":"Khóa học Adobe Photoshop",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-1_mptlca.png",
+            "describe":"Khóa học sẽ mang đến cho bạn kiến thức từ cơ bản đến nâng cao. Sau khóa học bạn sẽ có thể sử dụng thành thạo Photoshop để Thiết kế, chỉnh sửa ảnh, Banner website, Poster sản phẩm, cắt ghép Manipulation,... cùng nhiều ứng dụng khác liên quan",
+            "infor":"Khóa học này phù hợp các bạn đam mê thiết kế đồ họa, đang tìm hiểu Photoshop hoặc để có nền tảng bước tiếp với các phần mềm và lĩnh vực khác. Nếu bạn là nhân viên văn phòng, làm trong các lĩnh vực, ngành nghề thường xuyên cần dùng đến hình ảnh, thì bạn nên học khóa học Photoshop này để bổ trợ cho công việc của mình.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Illustrator Basic",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701877/Khoa%20hoc%20d24/ico-2_dyn1qv.png",
+            "describe":"Là khóa học thiết kế Illustrator chuyên sâu vào kiến thức tạo hình nhân vật, thiết kế hình ảnh cho Animation Video, Motion Graphic, hoàn thiện Art Work, Poster, Banner for Digital... Ngoài các kiến thức thiết kế với Illustrator thì khóa học sẻ cung cấp đến bạn các kiến thức về phối màu và bố cục hình ảnh được sử dụng cho Video, Animation hiện đại, Infographic, Motion Graphic.. Cùng nhiều kiến thức khác được chia sẻ trong khóa học. ",
+            "infor":"Khóa học thiết kế Illustrator từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng Illustrator.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Adobe Premiere",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-3_aya354.png",
+            "describe":"Trang bị kiến thức về cấu trúc video, kỹ năng biên tập cắt ghép những đoạn phim rời rạc thành một video hoàn chỉnh có nội dung có tiết tấu. Giúp bạn tự mình dựng nên những video hấp dẫn theo nhu cầu như Video Quảng Cáo, Travel, Vlog, MV, Phóng sự, Sau khóa học bạn có thể làm việc ở các kênh truyền hình hay studio Phim. ",
+            "infor":"Một chương trình đào tạo chuyên sâu và có định hướng cho những ai muốn trở thành Video Designer, Pro Video Editor...",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Adobe After Effect",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-4_ao9asp.png",
+            "describe":"Hoàn thành khóa học bạn có thể sử dụng After Effect thực hiện các video có hiệu ứng, hình hiệu trường hình, intro sản phẩm, trailer quảng cáo, hiệu ứng motion... Và có thể tự tin áp dụng các hiệu ứng phức tạp khác vào video của bạn Giúp bạn có được kiến thức và kỹ năng cơ bản trước khi tiếp tục với khóa học After Effect nâng cao.",
+            "infor":"Một chương trình đào tạo chuyên sâu và có định hướng cho những ai muốn trở thành Video Designer, Pro Video Editor...",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Corel Draw",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701879/Khoa%20hoc%20d24/ico-5_zmoe51.png",
+            "describe":"Corel DRAW là phần mềm vẽ hình vector chuyên nghiệp trên máy tính, giúp người thực hiện hóa các ý tưởng đồ họa một cách dễ dàng. Phần mềm cho phép người dùng xử lý các dự án thiết kế bằng những công cụ chuẩn xác, tạo ra các logo, bảng hiệu độc đáo, tài liệu marketing, đồ họa web",
+            "infor":"Khóa học thiết kế Corel DRAW từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng Corel DRAW.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học SketchUP",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-6_ah17bp.png",
+            "describe":"Hướng dẫn học viên thành thạo dựng các mô hình 3D, thiết kế sơ phác trong lãnh vực phối cảnh, cảnh quan công trình kiến trúc, thiết kế quay trong điện ảnh - sân khấu... bằng phần mềm SketchUP",
+            "infor":"Khóa học thiết kế SketchUP từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng SketchUP.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Nuke Studio",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-7_u3a5ze.png",
+            "describe":"NUKE là một công cụ tổng hợp mạnh mẽ và được sử dụng rộng rãi với một loạt các tính năng được thiết kế để giúp bạn làm việc hiệu quả nhất có thể. Video này cho bạn thấy chức năng cốt lõi sẽ cho phép bạn tăng chất lượng công việc của mình hoặc đơn giản là hoàn thành nhanh hơn. Các chủ đề được đề cập bao gôm: Biểu đồ nút, kết xuất, giao diện người dùng, gizmos, không gian làm việc 3D và quy trình làm việc đa kênh.",
+            "infor":"Khóa học thiết kế NUKE từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng NUKE.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học Blender",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-8_r1f2xl.png",
+            "describe":"Blender là một phần mềm đồ họa 3D miễn phí và mã nguồn mở, được sử dụng để làm phim hoạt hình, kỹ xão, nghệ thuật, mẫu in 3D, phần mềm tương tác 3D và video. Bạn sẽ học được các công cụ dựng hình trong Blender 3D. Biết quy trình xây dựng nhân vật hoạt hình 3D từ hình vẽ. Hiểu được các thiết lập ánh sáng và kết xuất hình ảnh.",
+            "infor":"Khóa học thiết kế Blender từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng Blender.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học AUTODESK 3DS MAX + VRAY",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-9_acfogn.png",
+            "describe":"3Ds Max ứng dụng trong phối cảnh 3D kiến trúc nội ngoại thất cung cấp cho Học viên bộ công cụ dựng hình 3D tiên tiến nhất và có thể dựng phối cảnh các công trình kiến trúc với độ thực và đẹp hơn cả thực tế. Với kiến thức và phương pháp đào tạo mới, học viên sẽ dựng được từ nội thất, ngoại thất, các công trình kiến trúc với độ khó và phức tạp cao",
+            "infor":"Khóa học thiết kế 3Ds Max từ cơ bản đến nâng cao giúp bạn nắm vững và thành thạo các kỹ năng thiết kế bằng 3Ds Max .",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học MAYA CHARACTER MODELING",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701879/Khoa%20hoc%20d24/ico-10_mybll9.png",
+            "describe":"Khóa học Maya mang đến cho bạn từ khái niệm nền tảng và dần nâng cao kỹ năng dựng hình Modeling Character, chất liệu Texture và Render. Khóa học Maya tập trung vào kỹ năng và kiến thức dựng hình Modeling Nhân vật & Sản phẩm quảng cáo",
+            "infor":"Khóa học thiết kế 3Ds Max từ cơ bản đến nâng cao giúp bạn có được cái nhìn tông quát và hoàn thiện trước khi tiếp tục học lên các khóa học khác của Maya như Animation, Look Dev, Dynamics 3D... hay sản xuất Game 3D.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học CINEMA 4D",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701878/Khoa%20hoc%20d24/ico-11_lkrdjh.png",
+            "describe":"Khóa học Cinema 4D Basic sẽ trang bị cho bạn những kiến thức nền tảng và tổng quát nhất.- Sau khóa học Cinema 4D Basic bạn hoàn toàn nắm vững kỹ năng Modeling, Texture, Lighting Render và những kiến thức cơ bản của Animation, UV, Mograph, Xpresso,...",
+            "infor":"Khóa học Cinema 4D Basic phù hợp với những các bạn đang là Designer, Motion Artist mong muốn ứng dụng 3D vào tác phẩm của mình.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        },
+        {
+            "name":"Khóa học UNREAL ENGINE",
+            "image":"https://res.cloudinary.com/toantqt/image/upload/v1620701879/Khoa%20hoc%20d24/ico-12_wtpxxl.png",
+            "describe":"Unreal Engine là một bộ công cụ hoàn thiện xây dựng bởi những nhà phát triển Game dành cho những nhà phát triển Game. Từ Game di động 2D đến hệ máy Console, những bộ phim bom tấn và Vitual Reality (VR - thực tế ảo), Unreal Engine đưa đến cho bạn tất cả mọi thứ để bắt đầu - phát triển - đứng vững trong cộng đồng phát triển Game.",
+            "infor":"Unreal Engine là một bộ công cụ hoàn thiện xây dựng bởi những nhà phát triển Game dành cho những nhà phát triển Game. Từ Game di động 2D đến hệ máy Console, những bộ phim bom tấn và Vitual Reality (VR - thực tế ảo), Unreal Engine đưa đến cho bạn tất cả mọi thứ để bắt đầu - phát triển - đứng vững trong cộng đồng phát triển Game.",
+            "quality":"Design24 với đội ngũ giảng viên đại học, chuyên gia trong lĩnh vực truyền hình và các Designer giỏi, giàu kinh nghiệm. Học viên được đào tạo theo mô hình làm việc trên các dự án thực tế tại Design24, thực hành trên các show truyền hình thực tế & những dự án quảng cáo đến từ các thương hiệu hàng đầu Việt Nam."
+        }
+
     ]
 }
