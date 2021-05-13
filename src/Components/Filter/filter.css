@@ -76,5 +76,11 @@ label + .MuiInput-formControl {
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1920px) {
+  .filter {
+    top: 515px !important;
+  }
+  .MuiFormControl-root {
+    width: 300px !important;
+  }
 }
