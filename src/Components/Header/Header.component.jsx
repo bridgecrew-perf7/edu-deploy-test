@@ -479,7 +479,69 @@ const HeaderComponent = () => {
                   </ul>
                 </li>
                 <li>
-                  <a>Khóa Online</a>
+                  <a>Digital Marketing</a>
+                  <ul className="wsmenu-submenu">
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Livestream Facebook Bán Hàng Online Cao Cấp
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khoá Học Bán Hàng Trên Các Sàn Thương Mại Điện Tử
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Quảng Cáo Google Ads
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Quảng Cáo Facebook
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Quảng Cáo Facebook Chuyên Sâu
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Content Marketing
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học SEO
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Email Marketing
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Chatbot
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i class="fas fa-paint-brush"></i>
+                        Khóa Học Video Bán Hàng
+                      </a>
+                    </li>
+                  </ul>
                 </li>
                 <li>
                   <span className="wsmenu-click">
@@ -488,10 +550,12 @@ const HeaderComponent = () => {
                   <span className="wsmenu-click">
                     <i className="wsmenu-arrow fa fa-angle-down" />
                   </span>
-                  <a href="https://design24.vn/ChiTietDichVu.html">Dịch vụ</a>
+                  <a href="https://design24.vn/">Dịch vụ</a>
                 </li>
                 <li>
-                  <a>Sản phẩm học viên</a>
+                  <a href="https://www.behance.net/design2cngty?tracking_source=search_projects_recommended%7Cdesign24">
+                    Dự án
+                  </a>
                 </li>
 
                 <li>
