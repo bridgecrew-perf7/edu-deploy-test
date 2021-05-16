@@ -1,3 +1,8 @@
 .MuiCardContent-root {
   padding: 15px !important;
 }
+@media only screen and (min-width: 230px) and (max-width: 780px) {
+  .support {
+    width: 100% !important;
+  }
+}

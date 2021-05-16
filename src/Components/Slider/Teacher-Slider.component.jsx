@@ -82,7 +82,10 @@ const TeacherSliderComponent = () => {
         backgroundColor: "rgb(251 251 251)",
       }}
     >
-      <div style={{ width: "90%", margin: "0 auto", paddingTop: "30px" }}>
+      <div
+        style={{ width: "90%", margin: "0 auto", paddingTop: "30px" }}
+        className="teacher-slider"
+      >
         <div style={{ marginBottom: "30px" }}>
           <div className="border_left hidden-xs"></div>
           <span

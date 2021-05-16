@@ -45,7 +45,7 @@ label + .MuiInput-formControl {
 @media only screen and (max-width: 768px) {
   .filter {
     bottom: auto;
-    top: 70px;
+    top: 20px;
   }
   .container-fixed {
     width: 100%;

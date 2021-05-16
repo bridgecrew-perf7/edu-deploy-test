@@ -55,7 +55,7 @@ const SupportComponent = () => {
       <div className={classes.title}>
         <h2>Tiện ích hỗ trợ</h2>
       </div>
-      <div style={{ width: "80%", margin: "0 auto" }}>
+      <div style={{ width: "80%", margin: "0 auto" }} className="support">
         <Grid container spacing={3}>
           <Grid container item lg={12} spacing={3}>
             <Grid item lg={6} xs={12} data-aos="fade-right">

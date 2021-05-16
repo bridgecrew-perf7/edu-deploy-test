@@ -10,12 +10,11 @@ const HeaderComponent = () => {
   const handleClickEdu = (value) => {
     history.push({
       pathname: "/course",
-      state: { id: value },
+      search: `?id=${value}`,
     });
   };
 
   const handleClickShortTerm = (value) => {
-    console.log(value);
     history.push({
       pathname: "/course-short-term",
       search: `?id=${value}`,
@@ -305,97 +304,69 @@ const HeaderComponent = () => {
                   <ul className="wsmenu-submenu">
                     <li>
                       <a onClick={() => handleClickEdu(0)}>
-                        <i class="fas fa-paint-brush"></i>
                         Thiết kế đồ họa quảng cáo
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(1)}>
-                        <i className="fa fa-globe" />
                         Thiết kế video marketing
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(2)}>
-                        <i className="fa fa-cogs" />
                         Thiết kế 3D kiến trúc - nội thất
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(3)}>
-                        <i className="fa fa-database" />
-                        Thiết kế TVC 3D
-                      </a>
+                      <a onClick={() => handleClickEdu(3)}>Thiết kế TVC 3D</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(4)}>
-                        <i className="fa fa-tablet" />
                         Thiết kế hoạt hình 2D
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(5)}>
-                        <i className="fa fa-check-circle" />
-                        Thiết kế 3D event
-                      </a>
+                      <a onClick={() => handleClickEdu(5)}>Thiết kế 3D event</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(6)}>
-                        <i className="fa fa-sitemap" />
                         Biên tập &amp; dựng phim
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(7)}>
-                        <i className="fa fa-bar-chart" />
                         MC &amp; dẫn chương trình thực tế
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(8)}>
-                        <i className="fa fa-wrench" />
-                        Quay phim
-                      </a>
+                      <a onClick={() => handleClickEdu(8)}>Quay phim</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(9)}>
-                        <i className="fa fa-desktop" />
-                        Nhiếp ảnh
-                      </a>
+                      <a onClick={() => handleClickEdu(9)}>Nhiếp ảnh</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(10)}>
-                        <i className="fa fa-graduation-cap" />
-                        Thiết kế Website
-                      </a>
+                      <a onClick={() => handleClickEdu(10)}>Thiết kế Website</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(11)}>
-                        <i className="fa fa-graduation-cap" />
                         Thiết kế App Mobile
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(12)}>
-                        <i className="fa fa-graduation-cap" />
                         Thiết kế & thi công Công Trình Quảng cáo
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(13)}>
-                        <i className="fa fa-graduation-cap" />
-                        Tổ chức sự kiện
-                      </a>
+                      <a onClick={() => handleClickEdu(13)}>Tổ chức sự kiện</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(14)}>
-                        <i className="fa fa-graduation-cap" />
                         Livestream bán hàng online
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(15)}>
-                        <i className="fa fa-graduation-cap" />
                         Đồ họa cho thiếu nhi
                       </a>
                     </li>
@@ -406,73 +377,51 @@ const HeaderComponent = () => {
                   <ul className="wsmenu-submenu">
                     <li>
                       <a onClick={() => handleClickShortTerm(0)}>
-                        <i class="fas fa-paint-brush"></i>
                         ADOBE PHOTOSHOP
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(1)}>
-                        <i class="fas fa-paint-brush"></i>
                         ADOBE ILLUSTRATOR
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(2)}>
-                        <i class="fas fa-paint-brush"></i>
                         ADOBE PREMIERE
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(3)}>
-                        <i class="fas fa-paint-brush"></i>
                         ADOBE AFTER EFFECT
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickShortTerm(4)}>
-                        <i class="fas fa-paint-brush"></i>
-                        COREL DRAW
-                      </a>
+                      <a onClick={() => handleClickShortTerm(4)}>COREL DRAW</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickShortTerm(5)}>
-                        <i class="fas fa-paint-brush"></i>
-                        SKETCHUP
-                      </a>
+                      <a onClick={() => handleClickShortTerm(5)}>SKETCHUP</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickShortTerm(6)}>
-                        <i class="fas fa-paint-brush"></i>
-                        NUKE STUDIO
-                      </a>
+                      <a onClick={() => handleClickShortTerm(6)}>NUKE STUDIO</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickShortTerm(7)}>
-                        <i class="fas fa-paint-brush"></i>
-                        BLENDER
-                      </a>
+                      <a onClick={() => handleClickShortTerm(7)}>BLENDER</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(8)}>
-                        <i class="fas fa-paint-brush"></i>
                         AUTODESK 3DS MAX
                       </a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(9)}>
-                        <i class="fas fa-paint-brush"></i>
                         AUTODESK MAYA
                       </a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickShortTerm(10)}>
-                        <i class="fas fa-paint-brush"></i>
-                        CINEMA 4D
-                      </a>
+                      <a onClick={() => handleClickShortTerm(10)}>CINEMA 4D</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickShortTerm(11)}>
-                        <i class="fas fa-paint-brush"></i>
                         UNREAL ENGINE
                       </a>
                     </li>
@@ -483,63 +432,35 @@ const HeaderComponent = () => {
                   <ul className="wsmenu-submenu">
                     <li>
                       <a>
-                        <i class="fas fa-paint-brush"></i>
                         Khóa Học Livestream Facebook Bán Hàng Online Cao Cấp
                       </a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khoá Học Bán Hàng Trên Các Sàn Thương Mại Điện Tử
-                      </a>
+                      <a>Khoá Học Bán Hàng Trên Các Sàn Thương Mại Điện Tử</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Quảng Cáo Google Ads
-                      </a>
+                      <a>Quảng Cáo Google Ads</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Quảng Cáo Facebook
-                      </a>
+                      <a>Khóa Học Quảng Cáo Facebook</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Quảng Cáo Facebook Chuyên Sâu
-                      </a>
+                      <a>Khóa Học Quảng Cáo Facebook Chuyên Sâu</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Content Marketing
-                      </a>
+                      <a>Khóa Học Content Marketing</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học SEO
-                      </a>
+                      <a>Khóa Học SEO</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Email Marketing
-                      </a>
+                      <a>Khóa Học Email Marketing</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Chatbot
-                      </a>
+                      <a>Khóa Học Chatbot</a>
                     </li>
                     <li>
-                      <a>
-                        <i class="fas fa-paint-brush"></i>
-                        Khóa Học Video Bán Hàng
-                      </a>
+                      <a>Khóa Học Video Bán Hàng</a>
                     </li>
                   </ul>
                 </li>

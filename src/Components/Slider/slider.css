@@ -27,7 +27,7 @@
   .banner-background {
     display: block;
   }
-  .slick-slider {
+  .slider-banner .slick-slider {
     display: none;
   }
 }

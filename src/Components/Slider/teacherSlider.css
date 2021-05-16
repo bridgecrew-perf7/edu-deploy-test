@@ -60,3 +60,9 @@
   border-bottom: 4px solid #1b44a2;
   transition: 0.2s all;
 }
+
+@media only screen and (max-width: 768px) {
+  .teacher-slider .slick-slider {
+    display: block !important;
+  }
+}

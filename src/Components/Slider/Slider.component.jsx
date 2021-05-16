@@ -12,7 +12,7 @@ export default function SliderComponent() {
     slidesToScroll: 1,
   };
   return (
-    <div style={{ width: "100%" }}>
+    <div style={{ width: "100%" }} className="slider-banner">
       <Slider {...settings}>
         <div>
           <img
