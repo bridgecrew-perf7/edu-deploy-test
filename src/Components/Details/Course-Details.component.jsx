@@ -324,7 +324,7 @@ const CourseDetailsComponent = (props) => {
                     <div className="icon">
                       <ClassIcon />
                     </div>
-                    <div className="value">Học phí: 1.900.000 đ</div>
+                    <div className="value">Học phí: Đang cập nhật</div>
                   </div>
                   <div className="meta-info-unit">
                     <div className="icon">
