@@ -227,6 +227,12 @@ a:focus {
     display: block !important;
   }
 }
+@media only screen and (min-width: 1200px) {
+  .container {
+    max-width: 1160px !important;
+  }
+}
+
 .wsmenu-list li:hover .wsmenu-submenu {
   display: block;
 }

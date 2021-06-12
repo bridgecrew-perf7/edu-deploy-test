@@ -146,152 +146,30 @@ const HeaderComponent = () => {
                     <i className="wsmenu-arrow fa fa-angle-down" />
                   </span>
                   <a href="#">Lịch khai giảng</a>
-                  <div className="megamenu clearfix halfmenu">
-                    <ul className="col-lg-6 col-md-6 col-xs-12 link-list">
-                      <li>
-                        <a href="/lich-khai-giang/tin-hoc-van-phong">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 05-04-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Tin học văn phòng
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/thvp-chuan-quoc-te-mos">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 05-04-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Chứng chỉ quốc tế MOS
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/lap-trinh-va-csdl">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Lập trình &amp; CSDL
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/data-science-machine-learning">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Data Science &amp; Machine Learning
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/kiem-thu-phan-mem">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Kiểm thử phần mềm
-                          </div>
-                        </a>
-                      </li>
-                    </ul>
-                    <ul className="col-lg-6 col-md-6 col-xs-12 link-list">
-                      <li>
-                        <a href="/lich-khai-giang/internet-marketing">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Internet Marketing
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/do-hoa-da-truyen-thong">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 05-04-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Đồ hoạ đa truyền thông
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/thiet-ke-website">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 05-04-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Thiết kế website
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/lap-trinh-di-dong">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Lập trình di động
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lich-khai-giang/mang-may-tinh">
-                          <span
-                            className="icon-khai-giang fa fa-calendar"
-                            aria-hidden="true"
-                          />
-                          <div className="tieu-de-ngay-khai-giang">
-                            Ngày 17-05-2021
-                          </div>
-                          <div className="noi-dung-nganh-hoc">
-                            Mạng máy tính
-                          </div>
-                        </a>
-                      </li>{" "}
-                    </ul>
-                  </div>
+                </li>
+                <li>
+                  <span className="wsmenu-click">
+                    <i className="wsmenu-arrow fa fa-angle-down" />
+                  </span>
+                  <span className="wsmenu-click">
+                    <i className="wsmenu-arrow fa fa-angle-down" />
+                  </span>
+                  <a href="#">Chuyên viên</a>
+                  <ul className="wsmenu-submenu">
+                    <li>
+                      <a onClick={() => handleClickEdu(16)}>
+                        COMBO NGÀNH DU LỊCH
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(18)}>COMBO NGÀNH SPA</a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(17)}>
+                        COMBO NGÀNH NHÀ HÀNG KHÁCH SẠN
+                      </a>
+                    </li>
+                  </ul>
                 </li>
                 <li>
                   <span className="wsmenu-click">

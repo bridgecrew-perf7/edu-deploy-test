@@ -559,6 +559,123 @@
                 }
                 ]
             }
+        },
+        {
+            "name": "COMBO NGÀNH DU LỊCH",
+            "banner":"",
+            "content": "Học viên nắm được những kiến thức cơ bản về ngành du lịch, các kỹ năng thiết kế video giới thiệu về chương trình tour, chỉnh sửa hình ảnh về các địa điểm du lịc",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm được những kỹ năng hướng dẫn.","Các kỹ năng về giao tiếp, đứng trước đám đông","Xây dựng kịch bản Video quảng cáo các chương trình du lịch của bạn,Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các chương trình du lịch, các video của những người đã từng trải nghiệm dịch vụ du lịch của công ty, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Nhân viên marketing ngành Nhà hàng, khách sạn","Chủ các nhà hàng, khách sạn"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1. Thiết kế video giới thiệu về các tour du lịch",
+                    "product":["Thiết kế các chưng trình du lịch có sẵn thành các video cho khách hàng xem hấp dẫn, thu hút họ, kích thích đặt tour"]
+                }
+                ,
+                {
+                    "title":"2. Thiết kế quảng cáo",
+                    "product":["Thiết kế các băng gon quảng cáo cho các chương trình tour"]
+                },
+                {
+                    "title":"3. Facebook",
+                    "product":["Viết content, chạy quảng cáo trên facebook"]
+                },
+                {
+                    "title":"4. Livestream",
+                    "product":["Kỹ năng livestream bán các chương trình du lịch"]
+                },
+                {
+                    "title":"5. Nghiệp vụ hướng dẫn viên du lịch",
+                    "product":["Kỹ năng thuyết minh","Thuyết minh tuyến điểm","Kiến thức về du lịch"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "COMBO NGÀNH NHÀ HÀNG KHÁCH SẠN",
+            "banner":"",
+            "content": "Nắm vững được các nghiệp vụ cơ bản về nhà hàng khách sạn, giúp học viên nắm vững được các kiến thức thiết kế Video Marketing chuyên về các dịch vụ ăn uống, dịch vụ lưu trú, chỉnh sửa hình ảnh các món ăn, buồng, kỹ năng livestream giới thiệu dịch vụ",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng tất cả các thể loại Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng sản phẩm của bạn","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Nhân viên marketing ngành Nhà hàng, khách sạn","Chủ các nhà hàng, khách sạn"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1. Thiết kế video cho nhà hàng, khách sạn",
+                    "product":["Tầm quan trọng của Video Marketing","Các yếu tố cần thiết để có video hay","Tìm hiểu nhu cầu của khách hàng"]
+                }
+                ,
+                {
+                    "title":"2. Set up hệ thống nhà hàng khách sạn",
+                    "product":["Tầm quan trọng của việc set up hệ thống nhà hàng, khách sạn","Các bước set up hệ thống:","+ Nghiên cứu và giám sát thị trường","+ Định hướng hoạt động kinh doanh","+Lập phương án khởi tạo mô hình kinh doanh","+Lập ngân sách hoạt động","+Làm chiến lược Marketing","+Tuyển dụng và cơ cấu nhân sự","+Đào tạo trong quá trình khởi tạo","+Bàn giao"]
+                },
+                {
+                    "title":"3. Nghiệp vụ nhà hàng",
+                    "product":["Kỹ năng nghiệp vụ nhà hàng","Kỹ năng giao tiếp bằng tiếng anh với khách","Ngoại hình","Thái độ phục vụ"]
+                },
+                {
+                    "title":"4. Nghiệp vụ buồng phòng",
+                    "product":["Quy trình phục vụ buồng tại khách sạn:","+Chủ bị phòng đón khách","+Phục vụ khách trong thời gian lưu trú","+Chuẩn bị cho khách trả phòng và rời khách sạn","+Dọn phòng","Kỹ năng chuyên ngành"]
+                },
+                {
+                    "title":"5. Livestream",
+                    "product":["Kỹ năng livestream giới thiệu các dịch vụ đến khách hàng"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "COMBO NGÀNH SPA",
+            "banner":"",
+            "content": "Học viên có kiến thức về spa, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành Spa, chỉnh sửa hình ảnh của Spa, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho Spa","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Nhân viên marketing ngành Spa","Chủ các Spa"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1. Thiết kế quảng cáo",
+                    "product":["Thiết kế các mẫu quảng cáo cho spa"]
+                }
+                ,
+                {
+                    "title":"2. Thiết kế Video Marketing",
+                    "product":["Tầm quan trọng của Video Marketing","Các yếu tố cần thiết để có video hay","+ Nghiên cứu và giám sát thị trường","Tìm hiểu nhu cầu của khách hàng"]
+                },
+                {
+                    "title":"3. Nghiệp vụ nhà hàng",
+                    "product":["Kỹ năng nghiệp vụ nhà hàng","Kỹ năng giao tiếp bằng tiếng anh với khách","Ngoại hình","Thái độ phục vụ"]
+                },
+                {
+                    "title":"3. Livetream",
+                    "product":["Tạo Youtube Channel, tối ưu hóa channel bật chế độ kiếm tiền","SEO Video trên Channel"]
+                },
+                {
+                    "title":"4. Fackbook",
+                    "product":["Đăng hình ảnh lên facebook","Chạy quảng cáo cho bài viết thông qua facebook"]
+                }
+                ]
+            }
         }
     ],
     "courseShort": [

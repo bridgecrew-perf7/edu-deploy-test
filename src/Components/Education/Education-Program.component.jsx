@@ -121,10 +121,9 @@ const EducationProgramComponent = () => {
   ];
 
   const handleClickEdu = (value) => {
-    console.log(value);
     history.push({
       pathname: "/course",
-      state: { id: value },
+      search: `?id=${value}`,
     });
   };
 
