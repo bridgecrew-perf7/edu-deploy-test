@@ -497,3 +497,15 @@ a:focus {
   color: #ffffff;
   cursor: pointer;
 }
+
+.wsmenu-list li > .wsmenu-submenu {
+  transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transform: rotateX(-75deg);
+  -o-transform: rotateX(-75deg);
+  -moz-transform: rotateX(-75deg);
+  -webkit-transform: rotateX(-75deg);
+  visibility: hidden;
+}
