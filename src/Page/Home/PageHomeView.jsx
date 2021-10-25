@@ -30,7 +30,6 @@ const PageHomeView = () => {
       <HeaderComponent />
       <div style={{ width: "100%", position: "relative" }}>
         <SliderComponent />
-        <FilterComponent />
       </div>
       <div id="content">
         <div className={fix ? "fix-content" : "d-none"}>
