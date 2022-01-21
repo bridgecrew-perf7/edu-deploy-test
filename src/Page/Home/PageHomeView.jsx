@@ -8,6 +8,7 @@ import PromotionComponent from "../../Components/Promotion/Promotion.component";
 import SupportComponent from "../../Components/Support/Support.component";
 import FooterComponent from "../../Components/Footer/Footer.component";
 import TeacherSliderComponent from "../../Components/Slider/Teacher-Slider.component";
+import EducationSoonComponent from "../../Components/Education Soon/EducationSoon.component";
 
 const PageHomeView = () => {
   const [fix, setFix] = useState(false);
@@ -30,8 +31,22 @@ const PageHomeView = () => {
       <HeaderComponent />
       <div style={{ width: "100%", position: "relative" }}>
         <SliderComponent />
+        <div className="video-slider">
+          <iframe
+            width="100%"
+            height="300"
+            src="https://www.youtube.com/embed/Mp0YNi3mW4A?autoplay=1"
+            style={{ border: "none", borderRadius: "10px" }}
+          ></iframe>
+        </div>
       </div>
       <div id="content">
+        <div>
+          <div className="wrap-page mb-5">
+            <EducationSoonComponent />
+          </div>
+        </div>
+
         <div className={fix ? "fix-content" : "d-none"}>
           <img
             src="https://res.cloudinary.com/toantqt/image/upload/v1620230066/icon-edu-d24/%C4%90a%CC%86ng-ky%CC%81-ngay-button-300x120_wxub3b.png"

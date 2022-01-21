@@ -22,7 +22,7 @@ const FooterComponent = () => {
               <a href="http://online.gov.vn/Home/WebDetails/77577">
                 <img
                   alt=""
-                  src="https://design24.vn/Images/logoSaleNoti.png"
+                  src="https://design24.vn/public/image/logoSaleNoti.png"
                   width="40%"
                   height="90px"
                 />

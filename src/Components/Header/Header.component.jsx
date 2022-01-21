@@ -41,7 +41,7 @@ const HeaderComponent = () => {
 
         <a href="/" className="smallogo">
           <img
-            src="https://design24.vn/Images/dichvu/logomenu.png"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1633589688/logomenu_nliwks.png"
             height="34px"
             alt=""
           />
@@ -59,7 +59,7 @@ const HeaderComponent = () => {
                 <div className="row">
                   <div className="col-3">
                     <img
-                      src="https://design24.vn/Images/dichvu/logomenu.png"
+                      src="https://res.cloudinary.com/serviced24/image/upload/v1633589688/logomenu_nliwks.png"
                       width="80px"
                     />
                   </div>

@@ -21,7 +21,7 @@ const PromotionComponent = () => {
       >
         <div className="col-md-4 item" data-aos="fade-right">
           <div className="box">
-            <img src="https://design24.vn/Images/s7/ico1.png" />
+            <img src="https://res.cloudinary.com/serviced24/image/upload/v1642755835/ico1_xuoh2n.png" />
             <p className="mt-3" style={{ color: "white" }}>
               Áo thun <strong>Design24</strong>
             </p>
@@ -29,7 +29,7 @@ const PromotionComponent = () => {
         </div>
         <div className="col-md-4 item" data-aos="fade-up">
           <div className="box">
-            <img src="https://design24.vn/Images/s7/ico2.png" />
+            <img src="https://res.cloudinary.com/serviced24/image/upload/v1642755839/ico2_rbfo6v.png" />
             <p className="mt-3" style={{ color: "white" }}>
               Giảm 35% học phí khi đăng kí từ ngày 1/5-31/5
             </p>
@@ -38,7 +38,7 @@ const PromotionComponent = () => {
 
         <div className="col-md-4 item" data-aos="fade-left">
           <div className="box">
-            <img src=" https://design24.vn/Images/s7/ico3.png" />
+            <img src=" https://res.cloudinary.com/serviced24/image/upload/v1642755845/ico3_pefaqq.png" />
             <p className="mt-3" style={{ color: "white" }}>
               Hỗ trợ cài đặt trọn bộ phần mềm
             </p>

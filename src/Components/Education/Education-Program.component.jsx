@@ -22,7 +22,8 @@ const useStyles = makeStyles((theme) => ({
     padding: theme.spacing(2),
   },
   wrapper: {
-    backgroundImage: "url('https://design24.vn/Images/s10/bg.jpg')",
+    backgroundImage:
+      "url('https://res.cloudinary.com/serviced24/image/upload/v1642749805/bg_qnvj8t.jpg')",
     backgroundSize: "cover",
     minHeight: 700,
   },
