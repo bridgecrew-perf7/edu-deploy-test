@@ -17,7 +17,8 @@
                 "Hướng dẫn sử dụng Hue/Saturation, Color Balance để đổi màu, Curves, Level để tăng độ sáng, tương phản, làm quen với các chế độ hòa trộn, Radial Blur",
                 "Tìm hiểu về Typoraphy, Font, Blending Option (Color Overlay, Drop shadow, Outer Glow,...)",
                 "Tạo hiệu ứng background với Hue/Saturation, tổng hợp các kỹ năng cắt ghép, tách nền, typoraphy, shape, sắp xếp bố cục cơ bản, export file."
-            ]
+            ],
+            "price":"1.600.000"
         },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_photoshop_n%C3%A2ng_cao_u0b6cl.jpg",
@@ -38,7 +39,9 @@
                 "Tách Layer trong suốt, mockup",
                 "Vẽ chân dung với Shape",
                 "Resize những sản phẩm thực tế"
-            ]
+            ],
+            "price":"2.000.000"
+
         },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/banner_AI_c%C6%A1_b%E1%BA%A3n-01_frfo9x.jpg",
@@ -57,7 +60,8 @@
                 "Cách sử dụng Typoraphy, Font, tạo chữ biến dạng theo các khối cơ bản, khai báo các style chữ",
                 "Tạo các khối 3D, Art Map, tạo các kiểu chữ biến dạng trong không gian 3D",
                 "Vẽ biểu đồ trong AI, các kiểu biểu đồ, biểu đồ 3D"
-            ]
+            ],
+            "price":"1.600.000"
         },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_AI_n%C3%A2ng_cao-01_ds4sdt.jpg",
@@ -78,16 +82,17 @@
                 "Vẽ phối cảnh buổi 2 (Vẽ căn phòng 2)",
                 "Vẽ phối cảnh buổi 3 (Vẽ thành phố 1)",
                 "Vẽ phối cảnh buổi 4 (Vẽ thành phố 2)"
-            ]
+            ],
+            "price":"4.900.000"
         },
         {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/premiere_n%C3%A2ng_cao_rqcwdg.jpg",
-            "name": "Khóa học Adobe Premiere nâng cao",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643009843/course/dung_phim_sx_truyen_hinh.png_1_vrjcnq.jpg",
+            "name": "Khóa học dựng phim sản xuất truyền hình (Adobe Premiere)",
             "startDate":"14/02/2022",
             "level":"Nâng cao",
             "schedule":"Tự chọn",
             "time":"Tự chọn",
-            "slug":"pr-nang-cao",
+            "slug":"dung-phim-san-xuat",
             "details":[
                 "Giới thiệu về các loại video trong ngành truyền hình",
                 "Đọc kịch bản tin tức, dựng thô, thêm thuyết minh",
@@ -98,7 +103,21 @@
                 "Giới thiệu về phim tài liệu, kịch bản, tư duy dựng",
                 "Dựng 1 đoạn ngắn trong phim tài liệu",
                 "Dựng bản tin, cắt xuất hiện, key phông xanh, thêm thuyết minh",
-                "Thêm chuyển cảnh, Sound Effect, Audio, hoàn thành bản tin",
+                "Thêm chuyển cảnh, Sound Effect, Audio, hoàn thành bản tin"
+               
+            ],
+            "price":"4.900.000"
+        },
+
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643009843/course/phim_quang_cao_1_igcqvf.jpg",
+            "name": "Khóa học dựng phim quảng cáo (Adobe Premiere)",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"dung-phim-gioi-thieu",
+            "details":[
                 "Các loại video giới thiệu – giải trí",
                 "Tìm hiểu về Intro, các loại Intro",
                 "Hướng dẫn dựng Intro",
@@ -112,14 +131,32 @@
                 "Giới thiệu về video quảng cáo, các loại video quảng cáo",
                 "Tìm hiểu về TVC",
                 "Phương pháp và tư duy dựng TVC",
+                "Thực hành dựng TVC và sửa bài tại lớp"
+               
+            ],
+            "price":"4.900.000"
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643009843/course/dung_phim_gt_gia_tri.png-1_1_dsenbu.jpg",
+            "name": "Khóa học dựng phim giới thiệu - giải trí (Adobe Premiere)",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"dung-phim-gioi-thieu",
+            "details":[
+                "Giới thiệu về video quảng cáo, các loại video quảng cáo",
+                "Tìm hiểu về TVC",
+                "Phương pháp và tư duy dựng TVC",
                 "Thực hành dựng TVC và sửa bài tại lớp",
                 "Giới thiệu về Video giới thiệu sản phẩm",
                 "Phương pháp và tư duy dựng Video giới thiệu sản phẩm",
                 "Thực hành dựng Video giới thiệu sản phẩm và sửa bài tại lớp",
                 "Giới thiệu về Video quảng bá doanh nghiệp, tổ chức",
                 "Phương pháp và tư duy dựng Video quảng bá",
-                "Thực hành dựng Video quảng bá và sửa bài tại lớp"
-            ]
+                "Thực hành dựng Video quảng bá và sửa bài tại lớp"                            
+            ],
+            "price":"4.900.000"
         },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750680/course/after-effects_c%C6%A1_b%E1%BA%A3n_lapwto.jpg",
@@ -138,37 +175,18 @@
                 "Hướng dẫn sử dụng track camera, track motion, Key video phông xanh",
                 "Tạo các Flare sáng với Optical Flare, tạo các khối 3D, chữ 3D, các chuyển động 3D với Element 3D",
                 "Tìm hiểu về Plugin Trapcode Particlular"
-            ]
+            ],
+            "price":"3.500.000"
         },
         {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/After_n%C3%A2ng_cao_ktf0vk.jpg",
-            "name": "Khóa học After Effect nâng cao",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643013437/course/motion_kbik7r.jpg",
+            "name": "Khóa học Animation (After Effect)",
             "startDate":"14/02/2022",
             "level":"Nâng cao",
             "schedule":"Tự chọn",
             "time":"Tự chọn",
-            "slug":"ae-nang-cao",
+            "slug":"animation",
             "details":[
-                "Tìm hiểu về Matchmoving",
-                "Thực hành Matchmove",
-                "Tìm hiểu về Rotoscoping",
-                "Thực hành Rotoscoping",
-                "Tìm hiểu về Object Removal",
-                "Thực hành Object Removal",
-                "VFX Keying (Key phông xanh)",
-                "Thực hành keying",
-                "Tìm hiểu về Screen Replacement",
-                "Thực hành Screen Replacement",
-                "Giới thiệu về Plugin, cách cài đặt, giao diện sử dụng",
-                "HIỂU VỀ THUỘC TÍNH TÙY CHỈNH VÀ LƯU PRESET TEXT, ANIMATION TEXT 3D",
-                "ROTATION RANDOM MULTI, ANIMATION NHIỀU GROUP TEXT LAYER",
-                "CÁC THUỘC TÍNH ANIMATION CỦA DEFORM, CAMERA ANIMATION",
-                "HIỂU IMPORT SEQUENCE VÀ THUỘC TÍNH PARTICLE",
-                "LOGO 3D ANIMATION, TẠO 3D LOGO",
-                "ĐƯA VẬT THỂ KHÔNG GIAN VÀO 3D",
-                "TẠO BÓNG CHO VẬT THỂ 3D TRONG KHÔNG GIAN",
-                "TẠO 3D CHO KHÔNG GIAN ĐỘNG VẬT HOANG DÃ",
-                "KHÔNG GIAN 3D PHIM",
                 "Giới thiệu về Animation, hướng dẫn quản lý và import file AI vào After Effect",
                 "Tạo chuyển động cho vật thể phần 1, Explode Shape Layer, Null Object và Parent, Tìm hiểu kỹ hơn về Shape Layer, Group và Path, làm quen với biểu đồ chuyển động",
                 "Tạo chuyển động cho vật thể phần 2, tìm hiểu về Script Move Anchor Point, Kinetic Expression, sử dụng Effect Radial Wipe, Fill, Repeater, Mask",
@@ -179,8 +197,56 @@
                 "Hoàn thành bài thực hành và sửa bài tại lớp",
                 "Làm quen với camera và hiệu ứng, tìm hiểu về Kinetic Typography, Biểu đồ Value, câu lệnh “Wiggle (0.0);”, liên kết giữa các frames.",
                 "Hoàn thành bài thực hành và sửa bài tại lớp    "
-            ]
+            ],
+            "price":"4.900.000"
         },
+
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643013436/course/element_3d_zzch3o.jpg",
+            "name": "Khóa học Element 3D (After Effect)",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"element-3d",
+            "details":[
+                "Giới thiệu về Plugin, cách cài đặt, giao diện sử dụng",
+                "HIỂU VỀ THUỘC TÍNH TÙY CHỈNH VÀ LƯU PRESET TEXT, ANIMATION TEXT 3D",
+                "ROTATION RANDOM MULTI, ANIMATION NHIỀU GROUP TEXT LAYER",
+                "CÁC THUỘC TÍNH ANIMATION CỦA DEFORM, CAMERA ANIMATION",
+                "HIỂU IMPORT SEQUENCE VÀ THUỘC TÍNH PARTICLE",
+                "LOGO 3D ANIMATION, TẠO 3D LOGO",
+                "ĐƯA VẬT THỂ KHÔNG GIAN VÀO 3D",
+                "TẠO BÓNG CHO VẬT THỂ 3D TRONG KHÔNG GIAN",
+                "TẠO 3D CHO KHÔNG GIAN ĐỘNG VẬT HOANG DÃ",
+                "KHÔNG GIAN 3D PHIM"
+            ],
+            "price":"4.900.000"
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643013436/course/AE_VFX_tzlz6s.jpg",
+            "name": "Khóa học VFX (After Effect)",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"vfx",
+            "details":[
+                "Tìm hiểu về Matchmoving",
+                "Thực hành Matchmove",
+                "Tìm hiểu về Rotoscoping",
+                "Thực hành Rotoscoping",
+                "Tìm hiểu về Object Removal",
+                "Thực hành Object Removal",
+                "VFX Keying (Key phông xanh)",
+                "Thực hành keying",
+                "Tìm hiểu về Screen Replacement",
+                "Thực hành Screen Replacement"
+            ],
+            "price":"4.900.000"
+        },
+        
+                
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/d%E1%BB%B1ng_phim_c%C6%A1_b%E1%BA%A3n_vzjfxn.jpg",
             "name": "Khóa học Dựng Phim cơ bản",
@@ -198,7 +264,8 @@
                 "Điều chỉnh tốc độ video, audio, cân chỉnh âm thanh, Key video phông xanh, crop video, tạo mặt nạ",
                 "Các kiểu Tiltle trong Premiere, tạo chữ chạy, liên kết với file thiết kế từ Photoshop, sử dụng proxy để hỗ trợ máy tính cấu hình thấp",
                 "Dựng 1 đoạn video ngắn theo kịch bản, Link media, Export video, đóng gói project, tùy chỉnh chất lượng video, tối ưu hóa dung lượng video, sử dụng hàng đợi (Media Encoder)"
-            ]
+            ],
+            "price":"3.500.000"
         }
     ]
 }

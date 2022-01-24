@@ -154,20 +154,40 @@ const HeaderComponent = () => {
                   <span className="wsmenu-click">
                     <i className="wsmenu-arrow fa fa-angle-down" />
                   </span>
-                  <a href="#">Chuyên viên</a>
+                  <a href="#">Đồ họa chuyên ngành</a>
                   <ul className="wsmenu-submenu">
                     <li>
-                      <a onClick={() => handleClickEdu(16)}>
-                        COMBO NGÀNH DU LỊCH
-                      </a>
+                      <a onClick={() => handleClickEdu(16)}>NGÀNH DU LỊCH</a>
                     </li>
                     <li>
-                      <a onClick={() => handleClickEdu(18)}>COMBO NGÀNH SPA</a>
+                      <a onClick={() => handleClickEdu(18)}> NGÀNH SPA</a>
                     </li>
                     <li>
                       <a onClick={() => handleClickEdu(17)}>
-                        COMBO NGÀNH NHÀ HÀNG KHÁCH SẠN
+                        NGÀNH NHÀ HÀNG KHÁCH SẠN
                       </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(19)}>NGÀNH KINH TẾ</a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(20)}>
+                        NGÀNH NÔNG NGHIỆP
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(21)}>
+                        NGÀNH BẢO VỆ THỰC VẬT
+                      </a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(22)}>NGÀNH THỦY SẢN</a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(23)}>NGÀNH CÔNG NGHỆ</a>
+                    </li>
+                    <li>
+                      <a onClick={() => handleClickEdu(24)}>NGÀNH GIÁO DỤC</a>
                     </li>
                   </ul>
                 </li>

@@ -4,9 +4,13 @@
   }
   .banner {
     height: 500px !important;
+    top: 25%;
   }
   .video {
     height: 420px !important;
+  }
+  .description {
+    padding: 40px 15px 40px 15px !important;
   }
 }
 

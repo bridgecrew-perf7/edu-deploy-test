@@ -13,11 +13,13 @@ export default function ProgramComponent(props) {
     );
   });
   return (
-    <div className="program mb-5">
-      <div className="header-title">
-        <span>Giáo trình</span>
+    <div className="bg-program">
+      <div className="program mb-5">
+        <div className="header-title">
+          <span>Giáo trình</span>
+        </div>
+        <div>{lists}</div>
       </div>
-      <div>{lists}</div>
     </div>
   );
 }

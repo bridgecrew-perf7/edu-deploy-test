@@ -5,6 +5,7 @@ import BannerComponent from "../../Components/Banner/Banner.component";
 import ProgramComponent from "../../Components/Program/Program.component";
 import FooterComponent from "../../Components/Footer/Footer.component";
 import "../../assets/style/style.css";
+import CourseDescriptionComponent from "../../Components/Course Description/CourseDescription.component";
 export default function CoursePage(props) {
   const [slug, setSlug] = useState();
   const [course, setCourse] = useState();
@@ -27,6 +28,7 @@ export default function CoursePage(props) {
       <HeaderComponent />
       <div>
         <BannerComponent image={course?.image} name={course?.name} />
+        <CourseDescriptionComponent program={course} />
         <ProgramComponent program={course} />
       </div>
       <FooterComponent />

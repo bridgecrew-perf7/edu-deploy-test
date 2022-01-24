@@ -54,7 +54,7 @@ const PageHomeView = () => {
             alt=""
           />
         </div>
-        <h1>Chương trình đào tạo</h1>
+        <h1>Các khóa đào tạo dài hạn</h1>
         <p>
           Chương trình học đa dạng và thường xuyên cập nhật công nghệ mới.
           <br />

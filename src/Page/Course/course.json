@@ -561,7 +561,7 @@
             }
         },
         {
-            "name": "COMBO NGÀNH DU LỊCH",
+            "name": " NGÀNH DU LỊCH",
             "banner":"",
             "content": "Học viên nắm được những kiến thức cơ bản về ngành du lịch, các kỹ năng thiết kế video giới thiệu về chương trình tour, chỉnh sửa hình ảnh về các địa điểm du lịc",
             "program":{
@@ -600,7 +600,7 @@
             }
         },
         {
-            "name": "COMBO NGÀNH NHÀ HÀNG KHÁCH SẠN",
+            "name": " NGÀNH NHÀ HÀNG KHÁCH SẠN",
             "banner":"",
             "content": "Nắm vững được các nghiệp vụ cơ bản về nhà hàng khách sạn, giúp học viên nắm vững được các kiến thức thiết kế Video Marketing chuyên về các dịch vụ ăn uống, dịch vụ lưu trú, chỉnh sửa hình ảnh các món ăn, buồng, kỹ năng livestream giới thiệu dịch vụ",
             "program":{
@@ -639,7 +639,7 @@
             }
         },
         {
-            "name": "COMBO NGÀNH SPA",
+            "name": " NGÀNH SPA",
             "banner":"",
             "content": "Học viên có kiến thức về spa, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành Spa, chỉnh sửa hình ảnh của Spa, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
             "program":{
@@ -676,7 +676,170 @@
                 }
                 ]
             }
+        },
+        {
+            "name": "NGÀNH KINH TẾ",
+            "banner":"",
+            "content": "Học viên có kiến thức về kinh tế, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành kinh tế, chỉnh sửa hình ảnh của kinh tế, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho kinh tế","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành kinh tế","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành kinh tế"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành kinh tế"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành kinh tế"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "NGÀNH NÔNG NGHIỆP",
+            "banner":"",
+            "content": "Học viên có kiến thức về nông nghiệp, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành nông nghiệp, chỉnh sửa hình ảnh của nông nghiệp, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho nông nghiệp","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành nông nghiệp","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành nông nghiệp"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành nông nghiệp"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành nông nghiệp"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "NGÀNH BẢO VỆ THỰC VẬT",
+            "banner":"",
+            "content": "Học viên có kiến thức về bảo vệ thực vật, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành bảo vệ thực vật, chỉnh sửa hình ảnh của bảo vệ thực vật, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho bảo vệ thực vật","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành bảo vệ thực vật","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành bảo vệ thực vật"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành bảo vệ thực vật"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành bảo vệ thực vật"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "NGÀNH THỦY SẢN",
+            "banner":"",
+            "content": "Học viên có kiến thức về thủy sản, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành thủy sản, chỉnh sửa hình ảnh của thủy sản, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho thủy sản","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành thủy sản","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành thủy sản"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành thủy sản"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành thủy sản"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "NGÀNH CÔNG NGHỆ",
+            "banner":"",
+            "content": "Học viên có kiến thức về công nghệ, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành công nghệ, chỉnh sửa hình ảnh của công nghệ, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho công nghệ","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành công nghệ","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành công nghệ"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành công nghệ"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành công nghệ"]
+                }
+                ]
+            }
+        },
+        {
+            "name": "NGÀNH GIÁO DỤC",
+            "banner":"",
+            "content": "Học viên có kiến thức về giáo dục, giúp cho học viên nắm được những kiến thức thiết kế Video Marketing chuyên về ngành giáo dục, chỉnh sửa hình ảnh của giáo dục, kỹ năng livestream giới thiệu về dịch vụ và sản phẩm",
+            "program":{
+                "target" : {
+                    "skill": ["Nắm vững quy trình xây dựng Video Marketing","Làm chủ kỹ thuật quay phim gồm khuôn hình, cỡ cảnh, ánh sáng, góc máy…","Xây dựng kịch bản Video quảng cáo để bán hàng, bán sản phẩm cho giáo dục","Chỉnh sửa video: Cắt, ghép, chèn chữ, hiệu ứng, âm thanh, kêu gọi hành động…","Xây dựng Video về các dịch vụ lưu trú, ăn uống, các video trải nghiệm của khách hàng khi sữ dụng dịch vụ, các video sự kiện"],
+                    "method":["Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình họ","Hoàn thành đồ án ở cuối khóa học"],
+                    "quality":["Giảng viên từ các trường đại học tại thành phố Hồ Chí Minh, chuyên gia từ các đài truyền hình và Designer đã thực hiện các dự án chuyên nghiệp của các thương hiệu hàng đầu Việt Nam","Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực mỹ thuật đa phương tiện và được đánh giá cao"]
+                
+                },
+                "participants": ["Người yêu thích thiết kế sáng tạo","Sinh viên, nhân viên đang học và làm việc trong ngành giáo dục","Các chủ cửa hàng hoặc chủ doanh nghiệp ngành giáo dục"],
+                "certification":"Học viên nhận được chứng nhận hoàn thành khóa học của Học viện Design24",
+                "time":"3 tháng",
+                "content":[
+                {
+                    "title":"1",
+                    "product":["Thiết kế và xây dựng thương hiệu, thiết kế quảng cáo, thiết kế các chương trình truyền thông, tiếp thị chuyên ngành giáo dục"]
+                }
+                ,
+                {
+                    "title":"2.",
+                    "product":["Biên tập, Quay & Dựng các video quảng cáo chuyên ngành giáo dục"]
+                }
+                ]
+            }
         }
+        
     ],
     "courseShort": [
         {
