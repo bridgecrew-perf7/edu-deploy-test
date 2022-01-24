@@ -6,6 +6,7 @@ import PageCourseView from "./Page/Course/Page-Course-View.component";
 import PageArchivesView from "./Page/Archives/Page-Archives-View.component";
 import PageCourseShortTermView from "./Page/Course/Page-Course-Short-Term-View.component";
 import Test from "./Page/Home/Test";
+import CoursePage from "./Page/Course/CoursePage";
 function App() {
   return (
     <HashRouter>
@@ -16,6 +17,12 @@ function App() {
         component={PageCourseShortTermView}
       ></Route>
       <Route path="/archives" component={PageArchivesView}></Route>
+      <Route
+        exact
+        path="/khoa-hoc/:slug"
+        render={(props) => <CoursePage {...props} />}
+      ></Route>
+
       {/* <Route path="/test" component={Test}></Route> */}
     </HashRouter>
   );

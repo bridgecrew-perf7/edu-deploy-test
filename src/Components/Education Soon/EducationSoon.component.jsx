@@ -8,6 +8,11 @@ import education from "../Education Soon/education.json";
 import "./educationSoon.css";
 
 const EducationSoonComponent = () => {
+  const history = useHistory();
+  const hanldeClick = (slug) => {
+    history.push(`/khoa-hoc/${slug}`);
+  };
+
   const lists = education?.course?.map((e, index) => {
     return (
       <Grid key={index} item lg={4} md={4} xs={12} className="mt-3">
@@ -15,7 +20,14 @@ const EducationSoonComponent = () => {
           <div className="head-img">
             <img src={e.image} width="100%" />
             <div className="btn-view">
-              <a> Xem chi tiết</a>
+              <a
+                onClick={() => {
+                  hanldeClick(e.slug);
+                }}
+              >
+                {" "}
+                Xem chi tiết
+              </a>
             </div>
           </div>
           <div className="middle-content">

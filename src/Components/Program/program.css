@@ -1,0 +1,28 @@
+.program {
+  width: 45%;
+  margin: 0 auto;
+  min-height: 500px;
+  background-color: #ffffff;
+  box-shadow: -10px 10px 14px -5px rgb(25 42 70 / 13%);
+  border-radius: 8px;
+  padding: 20px 15px 20px 15px;
+}
+.program .header-title {
+  text-align: center;
+  font-size: 27px;
+}
+.program .program-item {
+  background-color: #fff;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 6%) !important;
+  border-radius: 6px !important;
+  padding: 18px;
+  font-size: 17px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.program .program-item:hover {
+  cursor: pointer;
+  box-shadow: -10px 10px 14px -5px rgb(25 42 70 / 13%) !important;
+  color: #184a8c;
+}

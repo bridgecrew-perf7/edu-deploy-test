@@ -37,6 +37,7 @@ const PageHomeView = () => {
             height="300"
             src="https://www.youtube.com/embed/Mp0YNi3mW4A?autoplay=1"
             style={{ border: "none", borderRadius: "10px" }}
+            className="video"
           ></iframe>
         </div>
       </div>

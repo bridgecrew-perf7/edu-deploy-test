@@ -1,0 +1,40 @@
+@media only screen and (min-width: 1920px) {
+  .wrap-banner {
+    height: 750px !important;
+  }
+  .banner {
+    height: 500px !important;
+  }
+  .video {
+    height: 420px !important;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .wrap-banner {
+    height: 450px;
+  }
+  .banner {
+    width: 100%;
+    left: 0%;
+    top: 40%;
+    height: auto !important;
+  }
+  .banner img {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+  .program {
+    width: 95%;
+  }
+  .footer-bottom {
+    height: 80px;
+    padding: 15px;
+  }
+  .footer-bottom p {
+    padding-left: 0px;
+  }
+  .video {
+    display: none;
+  }
+}
