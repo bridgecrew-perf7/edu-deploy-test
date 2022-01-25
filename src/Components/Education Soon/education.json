@@ -266,6 +266,67 @@
                 "Dựng 1 đoạn video ngắn theo kịch bản, Link media, Export video, đóng gói project, tùy chỉnh chất lượng video, tối ưu hóa dung lượng video, sử dụng hàng đợi (Media Encoder)"
             ],
             "price":"3.500.000"
+        },
+
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643096357/course/app_level_1_jumbdz.jpg",
+            "name": "Khóa học Thiết Kế App (Level 1)",
+            "startDate":"14/02/2022",
+            "level":"Level 1",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"app-lv1",
+            "details": [
+                "Cài đặt môi trường và tạo ứng dụng",
+                "Tìm hiểu: StateWidget, Text, TextFeild, ElevatedButton, Padding",
+                "Tìm hiểu: StatefulWidget, Scaffold, Appbar, BottomNavigationBar, Icon",
+                "Tìm hiểu: Image, Column, Row, Icon, Container, SizedBox",
+                "Tìm hiểu: ListView, ListTile, Class Model",
+                "Tìm hiểu Navigation: chuyển màn hình, Dialog, BottomSheet",
+                "Thực hành xây dựng ứng dụng hoàn chỉnh",
+                "Thực hành xây dựng ứng dụng hoàn chỉnh"
+            ],
+            "price":"3.000.000"
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643096357/course/app_level_2_hxgkij.jpg",
+            "name": "Khóa học Thiết Kế App (Level 2)",
+            "startDate":"14/02/2022",
+            "level":"Level 2",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"app-lv2",
+            "details": [
+                "Tìm hiểu: Future, Stream, async, await",
+                "Tìm hiểu kết nối ứng dụng với Firebase",
+                "Tìm hiểu đăng ký, đăng nhập với Firebase Authtication",
+                "Tìm hiểu Cloud Firestore",
+                "Tìm hiểu push norification với Firebase Cloud Messaging",
+                "Thực hành xây dựng ứng dụng",
+                "Thực hành xây dựng ứng dụng",
+                "Thực hành xây dựng ứng dụng"
+            ],
+            "price":"3.000.000"
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1643096357/course/app_level_3_dh1tdz.jpg",
+            "name": "Khóa học Thiết Kế App (Level 3)",
+            "startDate":"14/02/2022",
+            "level":"Level 3",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"app-lv3",
+            "details": [
+                "Tìm hiểu state management: GetX, Provider",
+                "Tìm hiểu: GetxController",
+                "Tìm hiểu: GetService",
+                "Tìm hiểu giao tiếp với API",
+                "Tìm hiểu: GetConnect",
+                "Xây dựng ứng dụng với GetX",
+                "Xây dựng ứng dụng với GetX",
+                "Tìm hiểu: cách release ứng dụng lên Google Play, App Store"
+            ],
+            "price":"4.000.000"
         }
     ]
 }

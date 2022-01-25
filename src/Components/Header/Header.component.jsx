@@ -55,6 +55,7 @@ const HeaderComponent = () => {
               <a
                 style={{ textDecoration: "none", width: "32%", float: "left" }}
                 title="Responsive Slide Menus"
+                href="/"
               >
                 <div className="row">
                   <div className="col-3">

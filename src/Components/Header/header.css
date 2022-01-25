@@ -236,6 +236,13 @@ a:focus {
 .wsmenu-list li:hover .wsmenu-submenu {
   display: block;
 }
+.wsmenu-list li:hover {
+  cursor: pointer;
+}
+
+.wsmenu-submenu:hover {
+  cursor: pointer;
+}
 .wsmenu-list li:hover > .wsmenu-submenu {
   transform: rotateX(0deg);
   -o-transform: rotateX(0deg);
