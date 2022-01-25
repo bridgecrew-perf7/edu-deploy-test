@@ -1,89 +1,24 @@
 {
     "course": [
         {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750683/course/photoshop_c%C6%A1_b%E1%BA%A3n_ijdfft.jpg",
-            "name": "Khóa học Photoshop cơ bản",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/d%E1%BB%B1ng_phim_c%C6%A1_b%E1%BA%A3n_vzjfxn.jpg",
+            "name": "Khóa học Dựng Phim cơ bản (Premiere)",
             "startDate":"14/02/2022",
             "level":"Cơ bản",
             "schedule":"Tự chọn",
             "time":"Tự chọn",
-            "slug":"photoshop-co-ban",
+            "slug":"dung-phim-co-ban",
             "details": [
-                "Giới thiệu tổng quan về Photoshop, định dạng hình ảnh, cách tạo file, mở file, các công cụ cơ bản, cắt ghép cơ bản với Layer Mask, Làm quen công cụ tạo vùng chọn nhanh (Magic wand tool + Quick Selection)",
-                "Làm quen với Brush, công cụ vùng chọn, Hướng dẫn dùng Pen để tạo vùng chọn, thêm, bớt vùng chọn, tách tóc bằng Select and mask",
-                "Hướng dẫn sử dụng Camera Raw, Retouch, bộ công cụ Healing brush tool, tăng cường độ sắc nét của ảnh với high pass, len màu đơn giản",
-                "Sử dụng thành thạo Layer Mask, quản lý group, layer, tạo các khối cơ bản, làm quen với Solid color, Gradient",
-                "Giới thiệu về texture, Blur, Filter Gallery, Noise, Displace, tạo file Mockup đơn giản",
-                "Hướng dẫn sử dụng Hue/Saturation, Color Balance để đổi màu, Curves, Level để tăng độ sáng, tương phản, làm quen với các chế độ hòa trộn, Radial Blur",
-                "Tìm hiểu về Typoraphy, Font, Blending Option (Color Overlay, Drop shadow, Outer Glow,...)",
-                "Tạo hiệu ứng background với Hue/Saturation, tổng hợp các kỹ năng cắt ghép, tách nền, typoraphy, shape, sắp xếp bố cục cơ bản, export file."
+                "Làm quen với giao diện Premiere Pro; đưa file vào dự án làm việc; cắt ghép và xuất file.",
+                "Tạo hiệu ứng và chuyển cảnh video (Effects and Transitions), các hiệu ứng chuyển cảnh thường hay được sử dụng, Plugin chuyển cảnh , Multicam.",
+                "Key chữ lên video và key frame, tạo video từ ảnh tĩnh",
+                "Tăng tốc độ làm việc với các phím tắt cơ bản hay sử dụng, tùy chỉnh phím tắt theo sở thích, cá nhân hóa khung làm việc (Workspaces), quản lý các track(audio, video)",
+                "Chỉnh sửa màu phim và hiệu ứng audio (Editing Audio), dùng các chế độ hòa trộn tạo hiệu ứng từ video tài nguyên, sử dụng Blur.",
+                "Điều chỉnh tốc độ video, audio, cân chỉnh âm thanh, Key video phông xanh, crop video, tạo mặt nạ",
+                "Các kiểu Tiltle trong Premiere, tạo chữ chạy, liên kết với file thiết kế từ Photoshop, sử dụng proxy để hỗ trợ máy tính cấu hình thấp",
+                "Dựng 1 đoạn video ngắn theo kịch bản, Link media, Export video, đóng gói project, tùy chỉnh chất lượng video, tối ưu hóa dung lượng video, sử dụng hàng đợi (Media Encoder)"
             ],
-            "price":"1.600.000"
-        },
-        {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_photoshop_n%C3%A2ng_cao_u0b6cl.jpg",
-            "name": "Khóa học Photoshop nâng cao",
-            "startDate":"14/02/2022",
-            "level":"Nâng cao",
-            "schedule":"Tự chọn",
-            "time":"Tự chọn",
-            "slug":"photoshop-nang-cao",
-            "details": [
-                "Thiết kế chữ 3D, chất liệu, môi trường, background",
-                "Làm quen với phong cách thiết kế Double Exposure",
-                "Cắt ghép nâng cao, tạo bóng, tạo khối với Shape",
-                "Tạo các Style chữ với Blending Option",
-                "Hướng dẫn tạo vật liệu phát sáng với Brush và Blur",
-                "Chỉnh sửa ảnh, tạo các hiệu ứng background, Len màu",
-                "Phong cách manipulation trong thiết kế",
-                "Tách Layer trong suốt, mockup",
-                "Vẽ chân dung với Shape",
-                "Resize những sản phẩm thực tế"
-            ],
-            "price":"2.000.000"
-
-        },
-        {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/banner_AI_c%C6%A1_b%E1%BA%A3n-01_frfo9x.jpg",
-            "name": "Khóa học Adobe Illustrator cơ bản",
-            "startDate":"14/02/2022",
-            "level":"Cơ bản",
-            "schedule":"Tự chọn",
-            "time":"Tự chọn",
-            "slug":"ai-co-ban",
-            "details":[
-                "Giới thiệu tổng quan về AI, ArtBoard, Navigation Tools, vẽ các khối cơ bản, sử dụng Swatches để lấy màu",
-                "Hướng dẫn sử dụng Pathfinder, Shape Builder Tool, tạo hình và tô màu",
-                "Làm quen với công cụ Brush, vẽ 1 đối tượng đơn giản với Paintbrush và tô màu với Blob Brush",
-                "Giới thiệu về công cụ Pen tool, sử dụng Pen tool để tạo các hình ảnh vector từ đơn giản đến phức tạp",
-                "Tìm hiểu về các kiểu Brush bao gồm Caligraphic Brush, Scatter Brush, Pattern Brush,....",
-                "Cách sử dụng Typoraphy, Font, tạo chữ biến dạng theo các khối cơ bản, khai báo các style chữ",
-                "Tạo các khối 3D, Art Map, tạo các kiểu chữ biến dạng trong không gian 3D",
-                "Vẽ biểu đồ trong AI, các kiểu biểu đồ, biểu đồ 3D"
-            ],
-            "price":"1.600.000"
-        },
-        {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_AI_n%C3%A2ng_cao-01_ds4sdt.jpg",
-            "name": "Khóa học Adobe Illustrator nâng cao",
-            "startDate":"14/02/2022",
-            "level":"Nâng cao",
-            "schedule":"Tự chọn",
-            "time":"Tự chọn",
-            "slug":"ai-nang-cao",
-            "details": [
-                "Tạo các hiệu ứng với Appearance",
-                "Sử dụng những công cụ đã học hoàn thành bản vẽ với bản phác họa có sẵn",
-                "Sử dụng Brush để tạo các hiệu ứng Shading cho bản vẽ",
-                "Tạo bản vẽ từ hình ảnh",
-                "Tạo các Abtract với Blend tool, vẽ đối xứng",
-                "Tạo Grid, các tính chất hình học, tính năng Tranform Again",
-                "Vẽ phối cảnh buổi 1 (Vẽ căn phòng 1)",
-                "Vẽ phối cảnh buổi 2 (Vẽ căn phòng 2)",
-                "Vẽ phối cảnh buổi 3 (Vẽ thành phố 1)",
-                "Vẽ phối cảnh buổi 4 (Vẽ thành phố 2)"
-            ],
-            "price":"4.900.000"
+            "price":"3.500.000"
         },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1643009843/course/dung_phim_sx_truyen_hinh.png_1_vrjcnq.jpg",
@@ -245,29 +180,91 @@
             ],
             "price":"4.900.000"
         },
-        
-                
         {
-            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/d%E1%BB%B1ng_phim_c%C6%A1_b%E1%BA%A3n_vzjfxn.jpg",
-            "name": "Khóa học Dựng Phim cơ bản",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750683/course/photoshop_c%C6%A1_b%E1%BA%A3n_ijdfft.jpg",
+            "name": "Khóa học Photoshop cơ bản",
             "startDate":"14/02/2022",
             "level":"Cơ bản",
             "schedule":"Tự chọn",
             "time":"Tự chọn",
-            "slug":"dung-phim-co-ban",
+            "slug":"photoshop-co-ban",
             "details": [
-                "Làm quen với giao diện Premiere Pro; đưa file vào dự án làm việc; cắt ghép và xuất file.",
-                "Tạo hiệu ứng và chuyển cảnh video (Effects and Transitions), các hiệu ứng chuyển cảnh thường hay được sử dụng, Plugin chuyển cảnh , Multicam.",
-                "Key chữ lên video và key frame, tạo video từ ảnh tĩnh",
-                "Tăng tốc độ làm việc với các phím tắt cơ bản hay sử dụng, tùy chỉnh phím tắt theo sở thích, cá nhân hóa khung làm việc (Workspaces), quản lý các track(audio, video)",
-                "Chỉnh sửa màu phim và hiệu ứng audio (Editing Audio), dùng các chế độ hòa trộn tạo hiệu ứng từ video tài nguyên, sử dụng Blur.",
-                "Điều chỉnh tốc độ video, audio, cân chỉnh âm thanh, Key video phông xanh, crop video, tạo mặt nạ",
-                "Các kiểu Tiltle trong Premiere, tạo chữ chạy, liên kết với file thiết kế từ Photoshop, sử dụng proxy để hỗ trợ máy tính cấu hình thấp",
-                "Dựng 1 đoạn video ngắn theo kịch bản, Link media, Export video, đóng gói project, tùy chỉnh chất lượng video, tối ưu hóa dung lượng video, sử dụng hàng đợi (Media Encoder)"
+                "Giới thiệu tổng quan về Photoshop, định dạng hình ảnh, cách tạo file, mở file, các công cụ cơ bản, cắt ghép cơ bản với Layer Mask, Làm quen công cụ tạo vùng chọn nhanh (Magic wand tool + Quick Selection)",
+                "Làm quen với Brush, công cụ vùng chọn, Hướng dẫn dùng Pen để tạo vùng chọn, thêm, bớt vùng chọn, tách tóc bằng Select and mask",
+                "Hướng dẫn sử dụng Camera Raw, Retouch, bộ công cụ Healing brush tool, tăng cường độ sắc nét của ảnh với high pass, len màu đơn giản",
+                "Sử dụng thành thạo Layer Mask, quản lý group, layer, tạo các khối cơ bản, làm quen với Solid color, Gradient",
+                "Giới thiệu về texture, Blur, Filter Gallery, Noise, Displace, tạo file Mockup đơn giản",
+                "Hướng dẫn sử dụng Hue/Saturation, Color Balance để đổi màu, Curves, Level để tăng độ sáng, tương phản, làm quen với các chế độ hòa trộn, Radial Blur",
+                "Tìm hiểu về Typoraphy, Font, Blending Option (Color Overlay, Drop shadow, Outer Glow,...)",
+                "Tạo hiệu ứng background với Hue/Saturation, tổng hợp các kỹ năng cắt ghép, tách nền, typoraphy, shape, sắp xếp bố cục cơ bản, export file."
             ],
-            "price":"3.500.000"
+            "price":"1.600.000"
         },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_photoshop_n%C3%A2ng_cao_u0b6cl.jpg",
+            "name": "Khóa học Photoshop nâng cao",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"photoshop-nang-cao",
+            "details": [
+                "Thiết kế chữ 3D, chất liệu, môi trường, background",
+                "Làm quen với phong cách thiết kế Double Exposure",
+                "Cắt ghép nâng cao, tạo bóng, tạo khối với Shape",
+                "Tạo các Style chữ với Blending Option",
+                "Hướng dẫn tạo vật liệu phát sáng với Brush và Blur",
+                "Chỉnh sửa ảnh, tạo các hiệu ứng background, Len màu",
+                "Phong cách manipulation trong thiết kế",
+                "Tách Layer trong suốt, mockup",
+                "Vẽ chân dung với Shape",
+                "Resize những sản phẩm thực tế"
+            ],
+            "price":"2.000.000"
 
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750681/course/banner_AI_c%C6%A1_b%E1%BA%A3n-01_frfo9x.jpg",
+            "name": "Khóa học Adobe Illustrator cơ bản",
+            "startDate":"14/02/2022",
+            "level":"Cơ bản",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"ai-co-ban",
+            "details":[
+                "Giới thiệu tổng quan về AI, ArtBoard, Navigation Tools, vẽ các khối cơ bản, sử dụng Swatches để lấy màu",
+                "Hướng dẫn sử dụng Pathfinder, Shape Builder Tool, tạo hình và tô màu",
+                "Làm quen với công cụ Brush, vẽ 1 đối tượng đơn giản với Paintbrush và tô màu với Blob Brush",
+                "Giới thiệu về công cụ Pen tool, sử dụng Pen tool để tạo các hình ảnh vector từ đơn giản đến phức tạp",
+                "Tìm hiểu về các kiểu Brush bao gồm Caligraphic Brush, Scatter Brush, Pattern Brush,....",
+                "Cách sử dụng Typoraphy, Font, tạo chữ biến dạng theo các khối cơ bản, khai báo các style chữ",
+                "Tạo các khối 3D, Art Map, tạo các kiểu chữ biến dạng trong không gian 3D",
+                "Vẽ biểu đồ trong AI, các kiểu biểu đồ, biểu đồ 3D"
+            ],
+            "price":"1.600.000"
+        },
+        {
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1642750682/course/banner_AI_n%C3%A2ng_cao-01_ds4sdt.jpg",
+            "name": "Khóa học Adobe Illustrator nâng cao",
+            "startDate":"14/02/2022",
+            "level":"Nâng cao",
+            "schedule":"Tự chọn",
+            "time":"Tự chọn",
+            "slug":"ai-nang-cao",
+            "details": [
+                "Tạo các hiệu ứng với Appearance",
+                "Sử dụng những công cụ đã học hoàn thành bản vẽ với bản phác họa có sẵn",
+                "Sử dụng Brush để tạo các hiệu ứng Shading cho bản vẽ",
+                "Tạo bản vẽ từ hình ảnh",
+                "Tạo các Abtract với Blend tool, vẽ đối xứng",
+                "Tạo Grid, các tính chất hình học, tính năng Tranform Again",
+                "Vẽ phối cảnh buổi 1 (Vẽ căn phòng 1)",
+                "Vẽ phối cảnh buổi 2 (Vẽ căn phòng 2)",
+                "Vẽ phối cảnh buổi 3 (Vẽ thành phố 1)",
+                "Vẽ phối cảnh buổi 4 (Vẽ thành phố 2)"
+            ],
+            "price":"4.900.000"
+        },
         {
             "image":"https://res.cloudinary.com/serviced24/image/upload/v1643096357/course/app_level_1_jumbdz.jpg",
             "name": "Khóa học Thiết Kế App (Level 1)",
