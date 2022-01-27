@@ -16,32 +16,32 @@ export default function SliderComponent() {
       <Slider {...settings}>
         <div>
           <img
-            src="https://res.cloudinary.com/toantqt/image/upload/v1620898337/slider-d24/02cd6912c9093c576518_kajrox.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1643254043/course/banner/banner_khoa_hoc_quay_phim_yj1mbe.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/toantqt/image/upload/v1620898309/slider-d24/54c51619b602435c1a13_vzajud.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1643255198/course/banner/banner_khoa_hoc_do_hoa_quang_cao_1_nzhdzm.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/toantqt/image/upload/v1620898308/slider-d24/164ff091508aa5d4fc9b_ydlbgs.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1643254043/course/banner/banner_khoa_hoc_thiet_ke_website_ivckuf.jpg"
             className="img-slider"
           />
         </div>
 
         <div>
           <img
-            src="https://res.cloudinary.com/toantqt/image/upload/v1620898306/slider-d24/3ffb8525253ed060892f_pjmrws.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1643255198/course/banner/banner_khoa_hoc_video_marketing_1_vsvgda.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/toantqt/image/upload/v1620898305/slider-d24/52ef4f30ef2b1a75433a_an3vv2.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1643254042/course/banner/banner_khoa_hoc_ux_ui_ppe9s3.jpg"
             className="img-slider"
           />
         </div>
