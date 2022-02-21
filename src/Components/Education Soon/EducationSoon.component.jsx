@@ -9,13 +9,34 @@ import "./educationSoon.css";
 
 const EducationSoonComponent = () => {
   const history = useHistory();
+  useEffect(() => {
+    AOS.init({
+      duration: 1000,
+    });
+  }, []);
   const hanldeClick = (slug) => {
     history.push(`/khoa-hoc/${slug}`);
   };
+  const arr = [0, 2, 3, 5, 6, 8, 9, 11, 12, 14];
+  const arrLeft = [0, 3, 6, 9, 12];
 
   const lists = education?.course?.map((e, index) => {
     return (
-      <Grid key={index} item lg={4} md={4} xs={12} className="mt-3">
+      <Grid
+        key={index}
+        item
+        lg={4}
+        md={4}
+        xs={12}
+        className="mt-3"
+        data-aos={
+          arr.lastIndexOf(index) != -1
+            ? arrLeft.lastIndexOf(index) != -1
+              ? "fade-right"
+              : "fade-left"
+            : "fade-up"
+        }
+      >
         <div className="wrap-course">
           <div className="head-img">
             <img src={e.image} width="100%" />
