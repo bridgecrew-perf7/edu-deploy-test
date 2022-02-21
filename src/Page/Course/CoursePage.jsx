@@ -50,7 +50,11 @@ export default function CoursePage(props) {
         />
 
         <ProgramComponent program={course} />
-        <ModalFormContactComponent open={open} handleClose={handleClose} />
+        <ModalFormContactComponent
+          open={open}
+          handleClose={handleClose}
+          courseName={course?.name}
+        />
       </div>
       <FooterComponent />
     </div>

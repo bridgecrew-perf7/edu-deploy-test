@@ -16,21 +16,31 @@ import { useHistory } from "react-router-dom";
 import "./modal.css";
 import TextareaAutosize from "@material-ui/core/TextareaAutosize";
 import Slide from "@material-ui/core/Slide";
+import { registerCourse } from "../../Api/api";
 const ModalFormContactComponent = (props) => {
   const history = useHistory();
 
   const [data, setData] = useState({
     phoneNumber: "",
     fullName: "",
+    note: "",
   });
 
-  const handleClick = () => {
+  const handleClick = async () => {
     if (!data.phoneNumber || data.phoneNumber === "") {
       alert("Xin vui lòng nhập số điện thoại");
     } else if (!data.fullName || data.fullName === "") {
       alert("Xin vui lòng nhập họ tên");
     } else {
-      props?.handleClose();
+      let newData = {
+        courseName: props?.courseName,
+        fullName: data.fullName,
+        phoneNumber: data.phoneNumber,
+        note: data.note,
+      };
+      await registerCourse(newData).then((res) => {
+        props.handleClose();
+      });
     }
   };
 
@@ -118,6 +128,10 @@ const ModalFormContactComponent = (props) => {
                 <TextareaAutosize
                   minRows={3}
                   style={{ width: "100%", height: "90px", borderRadius: "4px" }}
+                  name="note"
+                  onChange={(e) => {
+                    handleChangeInput(e);
+                  }}
                 />
                 {/* <TextField
                   id="outlined-basic"
