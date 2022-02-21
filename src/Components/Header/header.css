@@ -38,18 +38,7 @@
   color: #fd6504;
   cursor: pointer;
 }
-input[type="text"] {
-  padding: 2px 2px;
-  outline: none;
-  display: block;
-  background: #fff;
-  text-indent: 4px;
-  color: #2c2c2c;
-  border: solid 1px #b9b9b9;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
-}
+
 .nut-tim {
   font-size: 20px;
   color: #0082c8;

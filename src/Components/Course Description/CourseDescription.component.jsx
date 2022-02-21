@@ -3,7 +3,7 @@ import "./description.css";
 export default function CourseDescriptionComponent(props) {
   return (
     <>
-      <div className="description mb-5">
+      <div className="description mb-5" data-aos="fade-up">
         <div className="header-title">
           <span>Mô tả khóa học</span>
         </div>
@@ -33,7 +33,7 @@ export default function CourseDescriptionComponent(props) {
           </div>
         </div>
         <div className="mt-4 button-book">
-          <button>Đặt chỗ ngay</button>
+          <button onClick={props?.handleClick}>Đặt chỗ ngay</button>
         </div>
         <div className="mt-4" style={{ textAlign: "center", color: "#666" }}>
           <span>Giảm 15% học phí khi đăng ký trước 30/1/2022</span>

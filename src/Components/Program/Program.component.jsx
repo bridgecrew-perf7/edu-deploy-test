@@ -14,7 +14,7 @@ export default function ProgramComponent(props) {
   });
   return (
     <div className="bg-program">
-      <div className="program mb-5">
+      <div className="program mb-5" data-aos="fade-up">
         <div className="header-title">
           <span>Giáo trình</span>
         </div>

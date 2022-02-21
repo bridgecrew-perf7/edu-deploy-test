@@ -1,0 +1,77 @@
+.modal-btn {
+  text-align: center;
+  margin-top: 30px;
+}
+.modal-btn a {
+  display: inline-block;
+  width: 100px;
+  padding: 12px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.modal-btn .btn-yes {
+  background-color: #189918;
+}
+
+.modal-btn .btn-no {
+  background-color: rgb(190, 30, 45);
+  border-color: rgb(190, 30, 45);
+}
+.modal-btn a:hover {
+  cursor: pointer;
+  color: white;
+}
+.MuiDialog-paper {
+  background-color: #080808 !important;
+}
+
+.MuiDialog-paper {
+  width: 440px;
+  height: 548px;
+  background-image: url("https://res.cloudinary.com/serviced24/image/upload/v1644635857/service-web-app/box_tren_3_vdpz2d.jpg");
+  background-size: cover;
+}
+.MuiDialogContent-root {
+  padding: 0px !important;
+}
+
+.title-modal {
+  display: inline-block;
+  margin-top: 120px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.modal-form .MuiDialog-paper {
+  width: 440px;
+  height: 548px;
+  background-image: url("https://res.cloudinary.com/serviced24/image/upload/v1644635857/service-web-app/box_duoi_1_ozyu1d.jpg");
+  background-size: cover;
+}
+.title-input-form {
+  font-size: 16px;
+  color: white;
+  font-weight: 500;
+  line-height: 2;
+  text-align: left;
+}
+
+.title-modal-form {
+  display: inline-block;
+  margin-top: 60px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.input-modal {
+  width: 100%;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.modal-form .modal-btn {
+  padding: 0px 30px 0px 30px;
+}

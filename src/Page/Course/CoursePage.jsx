@@ -6,9 +6,13 @@ import ProgramComponent from "../../Components/Program/Program.component";
 import FooterComponent from "../../Components/Footer/Footer.component";
 import "../../assets/style/style.css";
 import CourseDescriptionComponent from "../../Components/Course Description/CourseDescription.component";
+import ModalFormContactComponent from "../../Components/Modal/ModalFormContact.component";
+import AOS from "aos";
+
 export default function CoursePage(props) {
   const [slug, setSlug] = useState();
   const [course, setCourse] = useState();
+  const [open, setOpen] = useState(false);
   useEffect(() => {
     window.scrollTo(0, 0);
     if (props.match.params.slug) {
@@ -22,14 +26,31 @@ export default function CoursePage(props) {
       });
     }
   }, [props]);
-  console.log(course);
+  useEffect(() => {
+    AOS.init({
+      duration: 1000,
+    });
+  }, []);
+
+  const handleClick = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
   return (
     <div>
       <HeaderComponent />
       <div>
         <BannerComponent image={course?.image} name={course?.name} />
-        <CourseDescriptionComponent program={course} />
+        <CourseDescriptionComponent
+          program={course}
+          handleClick={handleClick}
+        />
+
         <ProgramComponent program={course} />
+        <ModalFormContactComponent open={open} handleClose={handleClose} />
       </div>
       <FooterComponent />
     </div>
