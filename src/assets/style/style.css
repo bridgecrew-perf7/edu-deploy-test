@@ -41,4 +41,22 @@
   .video {
     display: none;
   }
+  .wrap-banner {
+    height: auto;
+  }
+  .wrap-banner .header-name {
+    display: none;
+  }
+  .wrap-banner .banner {
+    top: 0;
+    position: relative;
+  }
+
+  .wrap-banner .banner img {
+    border-radius: 0px !important;
+  }
+  .description {
+    width: 80% !important;
+    margin-top: 30px !important;
+  }
 }
