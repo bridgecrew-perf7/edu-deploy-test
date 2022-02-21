@@ -11,7 +11,7 @@ const EducationSoonComponent = () => {
   const history = useHistory();
   useEffect(() => {
     AOS.init({
-      duration: 1000,
+      duration: 3000,
     });
   }, []);
   const hanldeClick = (slug) => {
