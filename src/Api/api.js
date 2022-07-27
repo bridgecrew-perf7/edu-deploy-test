@@ -1,4 +1,5 @@
 import axios from "axios";
+
 const url = "https://server-edu-d24.herokuapp.com/api";
 
 export const registerCourse = async (data) => {

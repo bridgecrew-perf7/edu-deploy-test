@@ -46,7 +46,6 @@ const EducationSoonComponent = () => {
                   hanldeClick(e.slug);
                 }}
               >
-                {" "}
                 Xem chi tiết
               </a>
             </div>
@@ -56,10 +55,6 @@ const EducationSoonComponent = () => {
               <span>{e.name}</span>
             </div>{" "}
             <div className="mt-2">
-              <div>
-                <span className="title-content">Ngày khai giảng: </span>{" "}
-                <span className="content">{e.startDate}</span>
-              </div>
               <div>
                 <span className="title-content">Trình độ: </span>{" "}
                 <span className="content">{e.level}</span>

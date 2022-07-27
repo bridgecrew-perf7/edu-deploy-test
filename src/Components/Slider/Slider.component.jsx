@@ -16,32 +16,32 @@ export default function SliderComponent() {
       <Slider {...settings}>
         <div>
           <img
-            src="https://res.cloudinary.com/serviced24/image/upload/v1643254043/course/banner/banner_khoa_hoc_quay_phim_yj1mbe.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1658888663/course/banner/95dd577f0e49cc179558_wzn6jv.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/serviced24/image/upload/v1643255198/course/banner/banner_khoa_hoc_do_hoa_quang_cao_1_nzhdzm.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1658888663/course/banner/c66804545f629d3cc473_mnathr.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/serviced24/image/upload/v1643254043/course/banner/banner_khoa_hoc_thiet_ke_website_ivckuf.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1658888663/course/banner/48d803775a41981fc150_kvirev.jpg"
             className="img-slider"
           />
         </div>
 
         <div>
           <img
-            src="https://res.cloudinary.com/serviced24/image/upload/v1643255198/course/banner/banner_khoa_hoc_video_marketing_1_vsvgda.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1658888663/course/banner/d0fea687fcb13eef67a0_elisqb.jpg"
             className="img-slider"
           />
         </div>
         <div>
           <img
-            src="https://res.cloudinary.com/serviced24/image/upload/v1643254042/course/banner/banner_khoa_hoc_ux_ui_ppe9s3.jpg"
+            src="https://res.cloudinary.com/serviced24/image/upload/v1658888749/course/banner/af1b8e62d454160a4f45_ctxf7d.jpg"
             className="img-slider"
           />
         </div>
